@@ -1,0 +1,207 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: 중간 디렉터리(C:\Users\슈뢰딩거\Desktop\Tower_Bloon_Test_3\\Build\Obj\)에 다른 프로젝트(TileMapEditor.vcxproj)에서 공유하는 파일이 포함되어 있습니다.  이로 인해 잘못된 정리 및 다시 빌드 동작이 수행될 수 있습니다.
+Tower.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: __cdecl ObImage::ObImage(class std::basic_string<wchar_t,struct std::char_traits<wchar_t>,class std::allocator<wchar_t> >)" (??0ObImage@@QEAA@V?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@@Z)
+Turtwig.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: __cdecl ObImage::ObImage(class std::basic_string<wchar_t,struct std::char_traits<wchar_t>,class std::allocator<wchar_t> >)" (??0ObImage@@QEAA@V?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@@Z)
+Ui.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: __cdecl ObImage::ObImage(class std::basic_string<wchar_t,struct std::char_traits<wchar_t>,class std::allocator<wchar_t> >)" (??0ObImage@@QEAA@V?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@@Z)
+Victreebel.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: __cdecl ObImage::ObImage(class std::basic_string<wchar_t,struct std::char_traits<wchar_t>,class std::allocator<wchar_t> >)" (??0ObImage@@QEAA@V?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@@Z)
+Skuntank.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: __cdecl ObImage::ObImage(class std::basic_string<wchar_t,struct std::char_traits<wchar_t>,class std::allocator<wchar_t> >)" (??0ObImage@@QEAA@V?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@@Z)
+Squirtle.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: __cdecl ObImage::ObImage(class std::basic_string<wchar_t,struct std::char_traits<wchar_t>,class std::allocator<wchar_t> >)" (??0ObImage@@QEAA@V?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@@Z)
+TextBar.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: __cdecl ObImage::ObImage(class std::basic_string<wchar_t,struct std::char_traits<wchar_t>,class std::allocator<wchar_t> >)" (??0ObImage@@QEAA@V?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@@Z)
+Togekiss.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: __cdecl ObImage::ObImage(class std::basic_string<wchar_t,struct std::char_traits<wchar_t>,class std::allocator<wchar_t> >)" (??0ObImage@@QEAA@V?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@@Z)
+Rattata.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: __cdecl ObImage::ObImage(class std::basic_string<wchar_t,struct std::char_traits<wchar_t>,class std::allocator<wchar_t> >)" (??0ObImage@@QEAA@V?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@@Z)
+Roserade.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: __cdecl ObImage::ObImage(class std::basic_string<wchar_t,struct std::char_traits<wchar_t>,class std::allocator<wchar_t> >)" (??0ObImage@@QEAA@V?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@@Z)
+Scene01.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: __cdecl ObImage::ObImage(class std::basic_string<wchar_t,struct std::char_traits<wchar_t>,class std::allocator<wchar_t> >)" (??0ObImage@@QEAA@V?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@@Z)
+Scene02.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: __cdecl ObImage::ObImage(class std::basic_string<wchar_t,struct std::char_traits<wchar_t>,class std::allocator<wchar_t> >)" (??0ObImage@@QEAA@V?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@@Z)
+Ninetails.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: __cdecl ObImage::ObImage(class std::basic_string<wchar_t,struct std::char_traits<wchar_t>,class std::allocator<wchar_t> >)" (??0ObImage@@QEAA@V?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@@Z)
+Piplup.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: __cdecl ObImage::ObImage(class std::basic_string<wchar_t,struct std::char_traits<wchar_t>,class std::allocator<wchar_t> >)" (??0ObImage@@QEAA@V?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@@Z)
+Psyduck.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: __cdecl ObImage::ObImage(class std::basic_string<wchar_t,struct std::char_traits<wchar_t>,class std::allocator<wchar_t> >)" (??0ObImage@@QEAA@V?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@@Z)
+Purugly.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: __cdecl ObImage::ObImage(class std::basic_string<wchar_t,struct std::char_traits<wchar_t>,class std::allocator<wchar_t> >)" (??0ObImage@@QEAA@V?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@@Z)
+LoadingScene.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: __cdecl ObImage::ObImage(class std::basic_string<wchar_t,struct std::char_traits<wchar_t>,class std::allocator<wchar_t> >)" (??0ObImage@@QEAA@V?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@@Z)
+Magby.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: __cdecl ObImage::ObImage(class std::basic_string<wchar_t,struct std::char_traits<wchar_t>,class std::allocator<wchar_t> >)" (??0ObImage@@QEAA@V?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@@Z)
+Magmator.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: __cdecl ObImage::ObImage(class std::basic_string<wchar_t,struct std::char_traits<wchar_t>,class std::allocator<wchar_t> >)" (??0ObImage@@QEAA@V?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@@Z)
+Milotic.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: __cdecl ObImage::ObImage(class std::basic_string<wchar_t,struct std::char_traits<wchar_t>,class std::allocator<wchar_t> >)" (??0ObImage@@QEAA@V?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@@Z)
+Delibird.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: __cdecl ObImage::ObImage(class std::basic_string<wchar_t,struct std::char_traits<wchar_t>,class std::allocator<wchar_t> >)" (??0ObImage@@QEAA@V?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@@Z)
+Garchomp.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: __cdecl ObImage::ObImage(class std::basic_string<wchar_t,struct std::char_traits<wchar_t>,class std::allocator<wchar_t> >)" (??0ObImage@@QEAA@V?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@@Z)
+Golduck.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: __cdecl ObImage::ObImage(class std::basic_string<wchar_t,struct std::char_traits<wchar_t>,class std::allocator<wchar_t> >)" (??0ObImage@@QEAA@V?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@@Z)
+Happiny.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: __cdecl ObImage::ObImage(class std::basic_string<wchar_t,struct std::char_traits<wchar_t>,class std::allocator<wchar_t> >)" (??0ObImage@@QEAA@V?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@@Z)
+Charmander.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: __cdecl ObImage::ObImage(class std::basic_string<wchar_t,struct std::char_traits<wchar_t>,class std::allocator<wchar_t> >)" (??0ObImage@@QEAA@V?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@@Z)
+Chimchar.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: __cdecl ObImage::ObImage(class std::basic_string<wchar_t,struct std::char_traits<wchar_t>,class std::allocator<wchar_t> >)" (??0ObImage@@QEAA@V?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@@Z)
+Crobat.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: __cdecl ObImage::ObImage(class std::basic_string<wchar_t,struct std::char_traits<wchar_t>,class std::allocator<wchar_t> >)" (??0ObImage@@QEAA@V?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@@Z)
+Cursor.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: __cdecl ObImage::ObImage(class std::basic_string<wchar_t,struct std::char_traits<wchar_t>,class std::allocator<wchar_t> >)" (??0ObImage@@QEAA@V?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@@Z)
+Bellsprout.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: __cdecl ObImage::ObImage(class std::basic_string<wchar_t,struct std::char_traits<wchar_t>,class std::allocator<wchar_t> >)" (??0ObImage@@QEAA@V?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@@Z)
+Bloon.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: __cdecl ObImage::ObImage(class std::basic_string<wchar_t,struct std::char_traits<wchar_t>,class std::allocator<wchar_t> >)" (??0ObImage@@QEAA@V?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@@Z)
+Bulbasaur.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: __cdecl ObImage::ObImage(class std::basic_string<wchar_t,struct std::char_traits<wchar_t>,class std::allocator<wchar_t> >)" (??0ObImage@@QEAA@V?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@@Z)
+Caterpie.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: __cdecl ObImage::ObImage(class std::basic_string<wchar_t,struct std::char_traits<wchar_t>,class std::allocator<wchar_t> >)" (??0ObImage@@QEAA@V?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@@Z)
+Victreebel.obj : error LNK2019: "public: void __cdecl ObImage::ChangeAnim(enum ANIMSTATE,float,bool)" (?ChangeAnim@ObImage@@QEAAXW4ANIMSTATE@@M_N@Z)"public: __cdecl Victreebel::Victreebel(void)" (??0Victreebel@@QEAA@XZ) 함수에서 참조되는 확인할 수 없는 외부 기호
+TextBar.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: void __cdecl ObImage::ChangeAnim(enum ANIMSTATE,float,bool)" (?ChangeAnim@ObImage@@QEAAXW4ANIMSTATE@@M_N@Z)
+Togekiss.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: void __cdecl ObImage::ChangeAnim(enum ANIMSTATE,float,bool)" (?ChangeAnim@ObImage@@QEAAXW4ANIMSTATE@@M_N@Z)
+Tower.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: void __cdecl ObImage::ChangeAnim(enum ANIMSTATE,float,bool)" (?ChangeAnim@ObImage@@QEAAXW4ANIMSTATE@@M_N@Z)
+Turtwig.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: void __cdecl ObImage::ChangeAnim(enum ANIMSTATE,float,bool)" (?ChangeAnim@ObImage@@QEAAXW4ANIMSTATE@@M_N@Z)
+Roserade.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: void __cdecl ObImage::ChangeAnim(enum ANIMSTATE,float,bool)" (?ChangeAnim@ObImage@@QEAAXW4ANIMSTATE@@M_N@Z)
+Scene02.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: void __cdecl ObImage::ChangeAnim(enum ANIMSTATE,float,bool)" (?ChangeAnim@ObImage@@QEAAXW4ANIMSTATE@@M_N@Z)
+Skuntank.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: void __cdecl ObImage::ChangeAnim(enum ANIMSTATE,float,bool)" (?ChangeAnim@ObImage@@QEAAXW4ANIMSTATE@@M_N@Z)
+Squirtle.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: void __cdecl ObImage::ChangeAnim(enum ANIMSTATE,float,bool)" (?ChangeAnim@ObImage@@QEAAXW4ANIMSTATE@@M_N@Z)
+Piplup.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: void __cdecl ObImage::ChangeAnim(enum ANIMSTATE,float,bool)" (?ChangeAnim@ObImage@@QEAAXW4ANIMSTATE@@M_N@Z)
+Psyduck.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: void __cdecl ObImage::ChangeAnim(enum ANIMSTATE,float,bool)" (?ChangeAnim@ObImage@@QEAAXW4ANIMSTATE@@M_N@Z)
+Purugly.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: void __cdecl ObImage::ChangeAnim(enum ANIMSTATE,float,bool)" (?ChangeAnim@ObImage@@QEAAXW4ANIMSTATE@@M_N@Z)
+Rattata.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: void __cdecl ObImage::ChangeAnim(enum ANIMSTATE,float,bool)" (?ChangeAnim@ObImage@@QEAAXW4ANIMSTATE@@M_N@Z)
+Magby.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: void __cdecl ObImage::ChangeAnim(enum ANIMSTATE,float,bool)" (?ChangeAnim@ObImage@@QEAAXW4ANIMSTATE@@M_N@Z)
+Magmator.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: void __cdecl ObImage::ChangeAnim(enum ANIMSTATE,float,bool)" (?ChangeAnim@ObImage@@QEAAXW4ANIMSTATE@@M_N@Z)
+Milotic.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: void __cdecl ObImage::ChangeAnim(enum ANIMSTATE,float,bool)" (?ChangeAnim@ObImage@@QEAAXW4ANIMSTATE@@M_N@Z)
+Ninetails.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: void __cdecl ObImage::ChangeAnim(enum ANIMSTATE,float,bool)" (?ChangeAnim@ObImage@@QEAAXW4ANIMSTATE@@M_N@Z)
+Garchomp.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: void __cdecl ObImage::ChangeAnim(enum ANIMSTATE,float,bool)" (?ChangeAnim@ObImage@@QEAAXW4ANIMSTATE@@M_N@Z)
+Golduck.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: void __cdecl ObImage::ChangeAnim(enum ANIMSTATE,float,bool)" (?ChangeAnim@ObImage@@QEAAXW4ANIMSTATE@@M_N@Z)
+Happiny.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: void __cdecl ObImage::ChangeAnim(enum ANIMSTATE,float,bool)" (?ChangeAnim@ObImage@@QEAAXW4ANIMSTATE@@M_N@Z)
+LoadingScene.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: void __cdecl ObImage::ChangeAnim(enum ANIMSTATE,float,bool)" (?ChangeAnim@ObImage@@QEAAXW4ANIMSTATE@@M_N@Z)
+Charmander.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: void __cdecl ObImage::ChangeAnim(enum ANIMSTATE,float,bool)" (?ChangeAnim@ObImage@@QEAAXW4ANIMSTATE@@M_N@Z)
+Chimchar.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: void __cdecl ObImage::ChangeAnim(enum ANIMSTATE,float,bool)" (?ChangeAnim@ObImage@@QEAAXW4ANIMSTATE@@M_N@Z)
+Crobat.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: void __cdecl ObImage::ChangeAnim(enum ANIMSTATE,float,bool)" (?ChangeAnim@ObImage@@QEAAXW4ANIMSTATE@@M_N@Z)
+Delibird.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: void __cdecl ObImage::ChangeAnim(enum ANIMSTATE,float,bool)" (?ChangeAnim@ObImage@@QEAAXW4ANIMSTATE@@M_N@Z)
+Bellsprout.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: void __cdecl ObImage::ChangeAnim(enum ANIMSTATE,float,bool)" (?ChangeAnim@ObImage@@QEAAXW4ANIMSTATE@@M_N@Z)
+Bloon.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: void __cdecl ObImage::ChangeAnim(enum ANIMSTATE,float,bool)" (?ChangeAnim@ObImage@@QEAAXW4ANIMSTATE@@M_N@Z)
+Bulbasaur.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: void __cdecl ObImage::ChangeAnim(enum ANIMSTATE,float,bool)" (?ChangeAnim@ObImage@@QEAAXW4ANIMSTATE@@M_N@Z)
+Caterpie.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: void __cdecl ObImage::ChangeAnim(enum ANIMSTATE,float,bool)" (?ChangeAnim@ObImage@@QEAAXW4ANIMSTATE@@M_N@Z)
+Turtwig.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: __cdecl Timer::Timer(void)" (??0Timer@@QEAA@XZ)
+Scene02.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: __cdecl Timer::Timer(void)" (??0Timer@@QEAA@XZ)
+Squirtle.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: __cdecl Timer::Timer(void)" (??0Timer@@QEAA@XZ)
+TextBar.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: __cdecl Timer::Timer(void)" (??0Timer@@QEAA@XZ)
+Tower.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: __cdecl Timer::Timer(void)" (??0Timer@@QEAA@XZ)
+Cursor.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: __cdecl Timer::Timer(void)" (??0Timer@@QEAA@XZ)
+Garchomp.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: __cdecl Timer::Timer(void)" (??0Timer@@QEAA@XZ)
+Happiny.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: __cdecl Timer::Timer(void)" (??0Timer@@QEAA@XZ)
+Scene01.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: __cdecl Timer::Timer(void)" (??0Timer@@QEAA@XZ)
+Bloon.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: __cdecl Timer::Timer(void)" (??0Timer@@QEAA@XZ)
+Caterpie.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: __cdecl Timer::Timer(void)" (??0Timer@@QEAA@XZ)
+Chimchar.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: __cdecl Timer::Timer(void)" (??0Timer@@QEAA@XZ)
+Crobat.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: __cdecl Timer::Timer(void)" (??0Timer@@QEAA@XZ)
+Bloon.obj : error LNK2019: "public: __cdecl GameObject::GameObject(void)" (??0GameObject@@QEAA@XZ)"public: __cdecl Bloon::Bloon(void)" (??0Bloon@@QEAA@XZ) 함수에서 참조되는 확인할 수 없는 외부 기호
+Cursor.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: __cdecl GameObject::GameObject(void)" (??0GameObject@@QEAA@XZ)
+Tower.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: __cdecl GameObject::GameObject(void)" (??0GameObject@@QEAA@XZ)
+Ui.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: __cdecl GameObject::GameObject(void)" (??0GameObject@@QEAA@XZ)
+TextBar.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: void __cdecl GameObject::SetWorldPos(struct DirectX::SimpleMath::Vector2)" (?SetWorldPos@GameObject@@QEAAXUVector2@SimpleMath@DirectX@@@Z)
+Tower.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: void __cdecl GameObject::SetWorldPos(struct DirectX::SimpleMath::Vector2)" (?SetWorldPos@GameObject@@QEAAXUVector2@SimpleMath@DirectX@@@Z)
+Turtwig.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: void __cdecl GameObject::SetWorldPos(struct DirectX::SimpleMath::Vector2)" (?SetWorldPos@GameObject@@QEAAXUVector2@SimpleMath@DirectX@@@Z)
+Ui.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: void __cdecl GameObject::SetWorldPos(struct DirectX::SimpleMath::Vector2)" (?SetWorldPos@GameObject@@QEAAXUVector2@SimpleMath@DirectX@@@Z)
+LoadingScene.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: void __cdecl GameObject::SetWorldPos(struct DirectX::SimpleMath::Vector2)" (?SetWorldPos@GameObject@@QEAAXUVector2@SimpleMath@DirectX@@@Z)
+Scene01.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: void __cdecl GameObject::SetWorldPos(struct DirectX::SimpleMath::Vector2)" (?SetWorldPos@GameObject@@QEAAXUVector2@SimpleMath@DirectX@@@Z)
+Scene02.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: void __cdecl GameObject::SetWorldPos(struct DirectX::SimpleMath::Vector2)" (?SetWorldPos@GameObject@@QEAAXUVector2@SimpleMath@DirectX@@@Z)
+Squirtle.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: void __cdecl GameObject::SetWorldPos(struct DirectX::SimpleMath::Vector2)" (?SetWorldPos@GameObject@@QEAAXUVector2@SimpleMath@DirectX@@@Z)
+Bloon.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: void __cdecl GameObject::SetWorldPos(struct DirectX::SimpleMath::Vector2)" (?SetWorldPos@GameObject@@QEAAXUVector2@SimpleMath@DirectX@@@Z)
+Bulbasaur.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: void __cdecl GameObject::SetWorldPos(struct DirectX::SimpleMath::Vector2)" (?SetWorldPos@GameObject@@QEAAXUVector2@SimpleMath@DirectX@@@Z)
+Caterpie.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: void __cdecl GameObject::SetWorldPos(struct DirectX::SimpleMath::Vector2)" (?SetWorldPos@GameObject@@QEAAXUVector2@SimpleMath@DirectX@@@Z)
+Cursor.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: void __cdecl GameObject::SetWorldPos(struct DirectX::SimpleMath::Vector2)" (?SetWorldPos@GameObject@@QEAAXUVector2@SimpleMath@DirectX@@@Z)
+Bloon.obj : error LNK2019: "float __cdecl Utility::DirToRadian(struct DirectX::SimpleMath::Vector2)" (?DirToRadian@Utility@@YAMUVector2@SimpleMath@DirectX@@@Z)"public: virtual void __cdecl Bloon::Update(void)" (?Update@Bloon@@UEAAXXZ) 함수에서 참조되는 확인할 수 없는 외부 기호
+Squirtle.obj : error LNK2001: 확인할 수 없는 외부 기호 "float __cdecl Utility::DirToRadian(struct DirectX::SimpleMath::Vector2)" (?DirToRadian@Utility@@YAMUVector2@SimpleMath@DirectX@@@Z)
+Tower.obj : error LNK2001: 확인할 수 없는 외부 기호 "float __cdecl Utility::DirToRadian(struct DirectX::SimpleMath::Vector2)" (?DirToRadian@Utility@@YAMUVector2@SimpleMath@DirectX@@@Z)
+Bloon.obj : error LNK2019: "struct DirectX::SimpleMath::Vector2 __cdecl Utility::Lerp(struct DirectX::SimpleMath::Vector2,struct DirectX::SimpleMath::Vector2,float)" (?Lerp@Utility@@YA?AUVector2@SimpleMath@DirectX@@U234@0M@Z)"public: virtual void __cdecl Bloon::Update(void)" (?Update@Bloon@@UEAAXXZ) 함수에서 참조되는 확인할 수 없는 외부 기호
+LoadingScene.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: __cdecl ObRect::ObRect(void)" (??0ObRect@@QEAA@XZ)
+Scene02.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: __cdecl ObRect::ObRect(void)" (??0ObRect@@QEAA@XZ)
+Ui.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: __cdecl ObRect::ObRect(void)" (??0ObRect@@QEAA@XZ)
+Bloon.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: __cdecl ObRect::ObRect(void)" (??0ObRect@@QEAA@XZ)
+Charmander.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: __cdecl ObRect::ObRect(void)" (??0ObRect@@QEAA@XZ)
+Delibird.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: __cdecl ObRect::ObRect(void)" (??0ObRect@@QEAA@XZ)
+Happiny.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: __cdecl ObRect::ObRect(void)" (??0ObRect@@QEAA@XZ)
+Ui.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: __cdecl ObCircle::ObCircle(void)" (??0ObCircle@@QEAA@XZ)
+Skuntank.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: __cdecl ObCircle::ObCircle(void)" (??0ObCircle@@QEAA@XZ)
+Squirtle.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: __cdecl ObCircle::ObCircle(void)" (??0ObCircle@@QEAA@XZ)
+Tower.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: __cdecl ObCircle::ObCircle(void)" (??0ObCircle@@QEAA@XZ)
+Turtwig.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: __cdecl ObCircle::ObCircle(void)" (??0ObCircle@@QEAA@XZ)
+Chimchar.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: __cdecl ObCircle::ObCircle(void)" (??0ObCircle@@QEAA@XZ)
+Delibird.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: __cdecl ObCircle::ObCircle(void)" (??0ObCircle@@QEAA@XZ)
+Happiny.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: __cdecl ObCircle::ObCircle(void)" (??0ObCircle@@QEAA@XZ)
+Piplup.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: __cdecl ObCircle::ObCircle(void)" (??0ObCircle@@QEAA@XZ)
+Bloon.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: __cdecl ObCircle::ObCircle(void)" (??0ObCircle@@QEAA@XZ)
+Bulbasaur.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: __cdecl ObCircle::ObCircle(void)" (??0ObCircle@@QEAA@XZ)
+Caterpie.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: __cdecl ObCircle::ObCircle(void)" (??0ObCircle@@QEAA@XZ)
+Charmander.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: __cdecl ObCircle::ObCircle(void)" (??0ObCircle@@QEAA@XZ)
+Bloon.obj : error LNK2019: "public: bool __cdecl ObTileMap::WorldPosToTileIdx(struct DirectX::SimpleMath::Vector2,struct Int2 &)" (?WorldPosToTileIdx@ObTileMap@@QEAA_NUVector2@SimpleMath@DirectX@@AEAUInt2@@@Z)"public: virtual void __cdecl Bloon::Update(void)" (?Update@Bloon@@UEAAXXZ) 함수에서 참조되는 확인할 수 없는 외부 기호
+Bulbasaur.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: bool __cdecl ObTileMap::WorldPosToTileIdx(struct DirectX::SimpleMath::Vector2,struct Int2 &)" (?WorldPosToTileIdx@ObTileMap@@QEAA_NUVector2@SimpleMath@DirectX@@AEAUInt2@@@Z)
+Scene01.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: bool __cdecl ObTileMap::WorldPosToTileIdx(struct DirectX::SimpleMath::Vector2,struct Int2 &)" (?WorldPosToTileIdx@ObTileMap@@QEAA_NUVector2@SimpleMath@DirectX@@AEAUInt2@@@Z)
+Bloon.obj : error LNK2019: "public: bool __cdecl ObTileMap::PathFinding(struct Int2,struct Int2,class std::vector<class Tile *,class std::allocator<class Tile *> > &)" (?PathFinding@ObTileMap@@QEAA_NUInt2@@0AEAV?$vector@PEAVTile@@V?$allocator@PEAVTile@@@std@@@std@@@Z)"public: virtual void __cdecl Bloon::Update(void)" (?Update@Bloon@@UEAAXXZ) 함수에서 참조되는 확인할 수 없는 외부 기호
+Bulbasaur.obj : error LNK2019: "public: int __cdecl ObTileMap::GetTileState(struct Int2)" (?GetTileState@ObTileMap@@QEAAHUInt2@@@Z)"public: void __cdecl Bulbasaur::castRay(struct DirectX::SimpleMath::Vector2,float,float,int)" (?castRay@Bulbasaur@@QEAAXUVector2@SimpleMath@DirectX@@MMH@Z) 함수에서 참조되는 확인할 수 없는 외부 기호
+Scene01.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: int __cdecl ObTileMap::GetTileState(struct Int2)" (?GetTileState@ObTileMap@@QEAAHUInt2@@@Z)
+Tower.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: void __cdecl GameObject::MoveWorldPos(struct DirectX::SimpleMath::Vector2)" (?MoveWorldPos@GameObject@@QEAAXUVector2@SimpleMath@DirectX@@@Z)
+Caterpie.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: void __cdecl GameObject::MoveWorldPos(struct DirectX::SimpleMath::Vector2)" (?MoveWorldPos@GameObject@@QEAAXUVector2@SimpleMath@DirectX@@@Z)
+Scene01.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: void __cdecl GameObject::MoveWorldPos(struct DirectX::SimpleMath::Vector2)" (?MoveWorldPos@GameObject@@QEAAXUVector2@SimpleMath@DirectX@@@Z)
+Scene02.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: void __cdecl GameObject::MoveWorldPos(struct DirectX::SimpleMath::Vector2)" (?MoveWorldPos@GameObject@@QEAAXUVector2@SimpleMath@DirectX@@@Z)
+Squirtle.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: void __cdecl GameObject::MoveWorldPos(struct DirectX::SimpleMath::Vector2)" (?MoveWorldPos@GameObject@@QEAAXUVector2@SimpleMath@DirectX@@@Z)
+Ui.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: __cdecl Input::Input(void)" (??0Input@@QEAA@XZ)
+Cursor.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: __cdecl Input::Input(void)" (??0Input@@QEAA@XZ)
+Scene01.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: __cdecl Input::Input(void)" (??0Input@@QEAA@XZ)
+Scene02.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: __cdecl Input::Input(void)" (??0Input@@QEAA@XZ)
+Tower.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: __cdecl Input::Input(void)" (??0Input@@QEAA@XZ)
+Cursor.obj : error LNK2019: "public: bool __cdecl Input::KeyPress(int)" (?KeyPress@Input@@QEAA_NH@Z)"public: void __cdecl Cursor::D(void)" (?D@Cursor@@QEAAXXZ) 함수에서 참조되는 확인할 수 없는 외부 기호
+Scene01.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: bool __cdecl Input::KeyPress(int)" (?KeyPress@Input@@QEAA_NH@Z)
+Tower.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: bool __cdecl Input::KeyPress(int)" (?KeyPress@Input@@QEAA_NH@Z)
+Ui.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: bool __cdecl Input::KeyPress(int)" (?KeyPress@Input@@QEAA_NH@Z)
+Cursor.obj : error LNK2019: "public: bool __cdecl Input::KeyUp(int)" (?KeyUp@Input@@QEAA_NH@Z)"public: void __cdecl Cursor::G(void)" (?G@Cursor@@QEAAXXZ) 함수에서 참조되는 확인할 수 없는 외부 기호
+Scene01.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: bool __cdecl Input::KeyUp(int)" (?KeyUp@Input@@QEAA_NH@Z)
+Scene02.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: bool __cdecl Input::KeyUp(int)" (?KeyUp@Input@@QEAA_NH@Z)
+Ui.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: bool __cdecl Input::KeyUp(int)" (?KeyUp@Input@@QEAA_NH@Z)
+LoadingScene.obj : error LNK2019: "public: virtual __cdecl SceneManager::~SceneManager(void)" (??1SceneManager@@UEAA@XZ)"public: virtual void * __cdecl SceneManager::`scalar deleting destructor'(unsigned int)" (??_GSceneManager@@UEAAPEAXI@Z) 함수에서 참조되는 확인할 수 없는 외부 기호
+Main.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: virtual __cdecl SceneManager::~SceneManager(void)" (??1SceneManager@@UEAA@XZ)
+Scene01.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: virtual __cdecl SceneManager::~SceneManager(void)" (??1SceneManager@@UEAA@XZ)
+Scene02.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: virtual __cdecl SceneManager::~SceneManager(void)" (??1SceneManager@@UEAA@XZ)
+LoadingScene.obj : error LNK2019: "public: bool __cdecl SceneManager::AddScene(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,class Scene *)" (?AddScene@SceneManager@@QEAA_NV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@PEAVScene@@@Z)"void __cdecl CreateScene(void)" (?CreateScene@@YAXXZ) 함수에서 참조되는 확인할 수 없는 외부 기호
+Main.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: bool __cdecl SceneManager::AddScene(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,class Scene *)" (?AddScene@SceneManager@@QEAA_NV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@PEAVScene@@@Z)
+LoadingScene.obj : error LNK2019: "public: class Scene * __cdecl SceneManager::ChangeScene(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,float)" (?ChangeScene@SceneManager@@QEAAPEAVScene@@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@M@Z)"public: virtual void __cdecl LoadingScene::Update(void)" (?Update@LoadingScene@@UEAAXXZ) 함수에서 참조되는 확인할 수 없는 외부 기호
+Main.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: class Scene * __cdecl SceneManager::ChangeScene(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,float)" (?ChangeScene@SceneManager@@QEAAPEAVScene@@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@M@Z)
+Scene01.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: class Scene * __cdecl SceneManager::ChangeScene(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,float)" (?ChangeScene@SceneManager@@QEAAPEAVScene@@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@M@Z)
+Scene02.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: class Scene * __cdecl SceneManager::ChangeScene(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,float)" (?ChangeScene@SceneManager@@QEAAPEAVScene@@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@M@Z)
+LoadingScene.obj : error LNK2019: "public: __cdecl Light::Light(void)" (??0Light@@QEAA@XZ)"public: static class Light * __cdecl Singleton<class Light>::GetInstance(void)" (?GetInstance@?$Singleton@VLight@@@@SAPEAVLight@@XZ) 함수에서 참조되는 확인할 수 없는 외부 기호
+Scene01.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: __cdecl Light::Light(void)" (??0Light@@QEAA@XZ)
+Tower.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: void __cdecl GameObject::SetWorldPosX(float)" (?SetWorldPosX@GameObject@@QEAAXM@Z)
+Ui.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: void __cdecl GameObject::SetWorldPosX(float)" (?SetWorldPosX@GameObject@@QEAAXM@Z)
+LoadingScene.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: void __cdecl GameObject::SetWorldPosX(float)" (?SetWorldPosX@GameObject@@QEAAXM@Z)
+Scene01.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: void __cdecl GameObject::SetWorldPosX(float)" (?SetWorldPosX@GameObject@@QEAAXM@Z)
+Scene02.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: void __cdecl GameObject::SetWorldPosX(float)" (?SetWorldPosX@GameObject@@QEAAXM@Z)
+Squirtle.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: void __cdecl GameObject::SetWorldPosX(float)" (?SetWorldPosX@GameObject@@QEAAXM@Z)
+TextBar.obj : error LNK2001: 확인할 수 없는 외부 기호 "class Application app" (?app@@3VApplication@@A)
+Ui.obj : error LNK2001: 확인할 수 없는 외부 기호 "class Application app" (?app@@3VApplication@@A)
+LoadingScene.obj : error LNK2001: 확인할 수 없는 외부 기호 "class Application app" (?app@@3VApplication@@A)
+Main.obj : error LNK2001: 확인할 수 없는 외부 기호 "class Application app" (?app@@3VApplication@@A)
+Scene01.obj : error LNK2001: 확인할 수 없는 외부 기호 "class Application app" (?app@@3VApplication@@A)
+Squirtle.obj : error LNK2001: 확인할 수 없는 외부 기호 "class Application app" (?app@@3VApplication@@A)
+Main.obj : error LNK2019: "public: void __cdecl Window::Create(void)" (?Create@Window@@QEAAXXZ)wWinMain 함수에서 참조되는 확인할 수 없는 외부 기호
+Main.obj : error LNK2019: "public: void __cdecl Window::Destroy(void)" (?Destroy@Window@@QEAAXXZ)wWinMain 함수에서 참조되는 확인할 수 없는 외부 기호
+Main.obj : error LNK2019: "public: unsigned __int64 __cdecl Window::Run(class Scene *)" (?Run@Window@@QEAA_KPEAVScene@@@Z)wWinMain 함수에서 참조되는 확인할 수 없는 외부 기호
+Main.obj : error LNK2019: "public: void __cdecl SceneManager::Release(void)" (?Release@SceneManager@@QEAAXXZ)"public: virtual void __cdecl Main::Release(void)" (?Release@Main@@UEAAXXZ) 함수에서 참조되는 확인할 수 없는 외부 기호
+Main.obj : error LNK2019: "public: void __cdecl SceneManager::Update(void)" (?Update@SceneManager@@QEAAXXZ)"public: virtual void __cdecl Main::Update(void)" (?Update@Main@@UEAAXXZ) 함수에서 참조되는 확인할 수 없는 외부 기호
+Main.obj : error LNK2019: "public: void __cdecl SceneManager::LateUpdate(void)" (?LateUpdate@SceneManager@@QEAAXXZ)"public: virtual void __cdecl Main::LateUpdate(void)" (?LateUpdate@Main@@UEAAXXZ) 함수에서 참조되는 확인할 수 없는 외부 기호
+Main.obj : error LNK2019: "public: void __cdecl SceneManager::Render(void)" (?Render@SceneManager@@QEAAXXZ)"public: virtual void __cdecl Main::Render(void)" (?Render@Main@@UEAAXXZ) 함수에서 참조되는 확인할 수 없는 외부 기호
+Main.obj : error LNK2019: "public: void __cdecl SceneManager::ResizeScreen(void)" (?ResizeScreen@SceneManager@@QEAAXXZ)"public: virtual void __cdecl Main::ResizeScreen(void)" (?ResizeScreen@Main@@UEAAXXZ) 함수에서 참조되는 확인할 수 없는 외부 기호
+Scene01.obj : error LNK2019: "public: bool __cdecl Input::KeyDown(int)" (?KeyDown@Input@@QEAA_NH@Z)"public: virtual void __cdecl Scene01::Update(void)" (?Update@Scene01@@UEAAXXZ) 함수에서 참조되는 확인할 수 없는 외부 기호
+Scene02.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: bool __cdecl Input::KeyDown(int)" (?KeyDown@Input@@QEAA_NH@Z)
+Scene01.obj : error LNK2019: "public: __cdecl Random::Random(void)" (??0Random@@QEAA@XZ)"public: static class Random * __cdecl Singleton<class Random>::GetInstance(void)" (?GetInstance@?$Singleton@VRandom@@@@SAPEAVRandom@@XZ) 함수에서 참조되는 확인할 수 없는 외부 기호
+Scene02.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: __cdecl Random::Random(void)" (??0Random@@QEAA@XZ)
+Ui.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: __cdecl Random::Random(void)" (??0Random@@QEAA@XZ)
+Scene01.obj : error LNK2019: "public: float __cdecl Random::Float(float,float)" (?Float@Random@@QEAAMMM@Z)"public: virtual void __cdecl Scene01::LateUpdate(void)" (?LateUpdate@Scene01@@UEAAXXZ) 함수에서 참조되는 확인할 수 없는 외부 기호
+Scene02.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: float __cdecl Random::Float(float,float)" (?Float@Random@@QEAAMMM@Z)
+Scene01.obj : error LNK2019: "public: __cdecl Sound::Sound(void)" (??0Sound@@QEAA@XZ)"public: static class Sound * __cdecl Singleton<class Sound>::GetInstance(void)" (?GetInstance@?$Singleton@VSound@@@@SAPEAVSound@@XZ) 함수에서 참조되는 확인할 수 없는 외부 기호
+Scene02.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: __cdecl Sound::Sound(void)" (??0Sound@@QEAA@XZ)
+Scene01.obj : error LNK2019: "public: bool __cdecl Sound::AddSound(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,bool)" (?AddSound@Sound@@QEAA_NV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@0_N@Z)"public: virtual void __cdecl Scene01::Init(void)" (?Init@Scene01@@UEAAXXZ) 함수에서 참조되는 확인할 수 없는 외부 기호
+Scene02.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: bool __cdecl Sound::AddSound(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,bool)" (?AddSound@Sound@@QEAA_NV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@0_N@Z)
+Scene01.obj : error LNK2019: "public: void __cdecl Sound::Play(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >)" (?Play@Sound@@QEAAXV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z)"public: virtual void __cdecl Scene01::Init(void)" (?Init@Scene01@@UEAAXXZ) 함수에서 참조되는 확인할 수 없는 외부 기호
+Scene02.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: void __cdecl Sound::Play(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >)" (?Play@Sound@@QEAAXV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z)
+Scene01.obj : error LNK2019: "public: void __cdecl Sound::Stop(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >)" (?Stop@Sound@@QEAAXV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z)"public: virtual void __cdecl Scene01::Update(void)" (?Update@Scene01@@UEAAXXZ) 함수에서 참조되는 확인할 수 없는 외부 기호
+Scene02.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: void __cdecl Sound::Stop(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >)" (?Stop@Sound@@QEAAXV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z)
+Scene01.obj : error LNK2019: "public: bool __cdecl GameObject::Intersect(struct DirectX::SimpleMath::Vector2)" (?Intersect@GameObject@@QEAA_NUVector2@SimpleMath@DirectX@@@Z)"public: virtual void __cdecl Scene01::Update(void)" (?Update@Scene01@@UEAAXXZ) 함수에서 참조되는 확인할 수 없는 외부 기호
+Scene02.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: bool __cdecl GameObject::Intersect(struct DirectX::SimpleMath::Vector2)" (?Intersect@GameObject@@QEAA_NUVector2@SimpleMath@DirectX@@@Z)
+Tower.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: bool __cdecl GameObject::Intersect(struct DirectX::SimpleMath::Vector2)" (?Intersect@GameObject@@QEAA_NUVector2@SimpleMath@DirectX@@@Z)
+Ui.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: bool __cdecl GameObject::Intersect(struct DirectX::SimpleMath::Vector2)" (?Intersect@GameObject@@QEAA_NUVector2@SimpleMath@DirectX@@@Z)
+Scene01.obj : error LNK2019: "public: bool __cdecl GameObject::Intersect(class GameObject *)" (?Intersect@GameObject@@QEAA_NPEAV1@@Z)"public: virtual void __cdecl Scene01::LateUpdate(void)" (?LateUpdate@Scene01@@UEAAXXZ) 함수에서 참조되는 확인할 수 없는 외부 기호
+Tower.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: bool __cdecl GameObject::Intersect(class GameObject *)" (?Intersect@GameObject@@QEAA_NPEAV1@@Z)
+Scene01.obj : error LNK2019: "public: __cdecl ObTileMap::ObTileMap(void)" (??0ObTileMap@@QEAA@XZ)"public: virtual void __cdecl Scene01::Init(void)" (?Init@Scene01@@UEAAXXZ) 함수에서 참조되는 확인할 수 없는 외부 기호
+Scene01.obj : error LNK2019: "public: void __cdecl ObTileMap::Load(void)" (?Load@ObTileMap@@QEAAXXZ)"public: virtual void __cdecl Scene01::Init(void)" (?Init@Scene01@@UEAAXXZ) 함수에서 참조되는 확인할 수 없는 외부 기호
+Scene02.obj : error LNK2019: "public: bool __cdecl Timer::GetTick(float &,float)" (?GetTick@Timer@@QEAA_NAEAMM@Z)"public: virtual void __cdecl Scene02::Render(void)" (?Render@Scene02@@UEAAXXZ) 함수에서 참조되는 확인할 수 없는 외부 기호
+TextBar.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: bool __cdecl Timer::GetTick(float &,float)" (?GetTick@Timer@@QEAA_NAEAMM@Z)
+Scene02.obj : error LNK2019: "public: __cdecl DWrite::DWrite(void)" (??0DWrite@@QEAA@XZ)"public: static class DWrite * __cdecl Singleton<class DWrite>::GetInstance(void)" (?GetInstance@?$Singleton@VDWrite@@@@SAPEAVDWrite@@XZ) 함수에서 참조되는 확인할 수 없는 외부 기호
+TextBar.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: __cdecl DWrite::DWrite(void)" (??0DWrite@@QEAA@XZ)
+Ui.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: __cdecl DWrite::DWrite(void)" (??0DWrite@@QEAA@XZ)
+Scene02.obj : error LNK2019: "public: void __cdecl DWrite::RenderText(class std::basic_string<wchar_t,struct std::char_traits<wchar_t>,class std::allocator<wchar_t> >,struct tagRECT,float,class std::basic_string<wchar_t,struct std::char_traits<wchar_t>,class std::allocator<wchar_t> >,struct DirectX::SimpleMath::Color,enum DWRITE_FONT_WEIGHT,enum DWRITE_FONT_STYLE,enum DWRITE_FONT_STRETCH)" (?RenderText@DWrite@@QEAAXV?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@UtagRECT@@M0UColor@SimpleMath@DirectX@@W4DWRITE_FONT_WEIGHT@@W4DWRITE_FONT_STYLE@@W4DWRITE_FONT_STRETCH@@@Z)"public: virtual void __cdecl Scene02::Render(void)" (?Render@Scene02@@UEAAXXZ) 함수에서 참조되는 확인할 수 없는 외부 기호
+TextBar.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: void __cdecl DWrite::RenderText(class std::basic_string<wchar_t,struct std::char_traits<wchar_t>,class std::allocator<wchar_t> >,struct tagRECT,float,class std::basic_string<wchar_t,struct std::char_traits<wchar_t>,class std::allocator<wchar_t> >,struct DirectX::SimpleMath::Color,enum DWRITE_FONT_WEIGHT,enum DWRITE_FONT_STYLE,enum DWRITE_FONT_STRETCH)" (?RenderText@DWrite@@QEAAXV?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@UtagRECT@@M0UColor@SimpleMath@DirectX@@W4DWRITE_FONT_WEIGHT@@W4DWRITE_FONT_STYLE@@W4DWRITE_FONT_STRETCH@@@Z)
+Ui.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: void __cdecl DWrite::RenderText(class std::basic_string<wchar_t,struct std::char_traits<wchar_t>,class std::allocator<wchar_t> >,struct tagRECT,float,class std::basic_string<wchar_t,struct std::char_traits<wchar_t>,class std::allocator<wchar_t> >,struct DirectX::SimpleMath::Color,enum DWRITE_FONT_WEIGHT,enum DWRITE_FONT_STYLE,enum DWRITE_FONT_STRETCH)" (?RenderText@DWrite@@QEAAXV?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@UtagRECT@@M0UColor@SimpleMath@DirectX@@W4DWRITE_FONT_WEIGHT@@W4DWRITE_FONT_STYLE@@W4DWRITE_FONT_STRETCH@@@Z)
+Squirtle.obj : error LNK2019: "public: __cdecl Camera::Camera(void)" (??0Camera@@QEAA@XZ)"public: static class Camera * __cdecl Singleton<class Camera>::GetInstance(void)" (?GetInstance@?$Singleton@VCamera@@@@SAPEAVCamera@@XZ) 함수에서 참조되는 확인할 수 없는 외부 기호
+Squirtle.obj : error LNK2019: "public: void __cdecl GameObject::SetWorldPosY(float)" (?SetWorldPosY@GameObject@@QEAAXM@Z)"public: virtual void __cdecl Squirtle::Update(void)" (?Update@Squirtle@@UEAAXXZ) 함수에서 참조되는 확인할 수 없는 외부 기호
+Tower.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: void __cdecl GameObject::SetWorldPosY(float)" (?SetWorldPosY@GameObject@@QEAAXM@Z)
+Ui.obj : error LNK2019: "public: int __cdecl Random::Int(int,int)" (?Int@Random@@QEAAHHH@Z)"public: void __cdecl Ui::TempSelection(void)" (?TempSelection@Ui@@QEAAXXZ) 함수에서 참조되는 확인할 수 없는 외부 기호
+C:\Users\슈뢰딩거\Desktop\Tower_Bloon_Test_3\\Build\Game2.exe : fatal error LNK1120: 47개의 확인할 수 없는 외부 참조입니다.

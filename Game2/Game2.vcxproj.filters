@@ -1,0 +1,218 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClInclude Include="Main.h" />
+    <ClInclude Include="stdafx.h" />
+    <ClInclude Include="Scene02.h">
+      <Filter>Scenes</Filter>
+    </ClInclude>
+    <ClInclude Include="Scene01.h">
+      <Filter>Scenes</Filter>
+    </ClInclude>
+    <ClInclude Include="Tower.h">
+      <Filter>Tower</Filter>
+    </ClInclude>
+    <ClInclude Include="Piplup.h">
+      <Filter>Tower</Filter>
+    </ClInclude>
+    <ClInclude Include="Turtwig.h">
+      <Filter>Tower</Filter>
+    </ClInclude>
+    <ClInclude Include="Bloon.h">
+      <Filter>Bloon</Filter>
+    </ClInclude>
+    <ClInclude Include="Magby.h">
+      <Filter>Bloon</Filter>
+    </ClInclude>
+    <ClInclude Include="Bellsprout.h">
+      <Filter>Bloon</Filter>
+    </ClInclude>
+    <ClInclude Include="Psyduck.h">
+      <Filter>Bloon</Filter>
+    </ClInclude>
+    <ClInclude Include="Chimchar.h">
+      <Filter>Tower</Filter>
+    </ClInclude>
+    <ClInclude Include="Rattata.h">
+      <Filter>Bloon</Filter>
+    </ClInclude>
+    <ClInclude Include="Purugly.h">
+      <Filter>Bloon</Filter>
+    </ClInclude>
+    <ClInclude Include="Skuntank.h">
+      <Filter>Bloon</Filter>
+    </ClInclude>
+    <ClInclude Include="Victreebel.h">
+      <Filter>Bloon</Filter>
+    </ClInclude>
+    <ClInclude Include="Golduck.h">
+      <Filter>Bloon</Filter>
+    </ClInclude>
+    <ClInclude Include="Magmator.h">
+      <Filter>Bloon</Filter>
+    </ClInclude>
+    <ClInclude Include="Charmander.h">
+      <Filter>Tower</Filter>
+    </ClInclude>
+    <ClInclude Include="Bulbasaur.h">
+      <Filter>Tower</Filter>
+    </ClInclude>
+    <ClInclude Include="Squirtle.h">
+      <Filter>Tower</Filter>
+    </ClInclude>
+    <ClInclude Include="Caterpie.h">
+      <Filter>Tower</Filter>
+    </ClInclude>
+    <ClInclude Include="Delibird.h">
+      <Filter>Tower</Filter>
+    </ClInclude>
+    <ClInclude Include="Happiny.h">
+      <Filter>Tower</Filter>
+    </ClInclude>
+    <ClInclude Include="Crobat.h">
+      <Filter>Bloon</Filter>
+    </ClInclude>
+    <ClInclude Include="Entity.h" />
+    <ClInclude Include="LoadingScene.h">
+      <Filter>Scenes</Filter>
+    </ClInclude>
+    <ClInclude Include="TextBar.h">
+      <Filter>Ui things</Filter>
+    </ClInclude>
+    <ClInclude Include="Ui.h">
+      <Filter>Ui things</Filter>
+    </ClInclude>
+    <ClInclude Include="Cursor.h">
+      <Filter>Ui things</Filter>
+    </ClInclude>
+    <ClInclude Include="Garchomp.h">
+      <Filter>Bloon</Filter>
+    </ClInclude>
+    <ClInclude Include="Milotic.h">
+      <Filter>Bloon</Filter>
+    </ClInclude>
+    <ClInclude Include="Ninetails.h">
+      <Filter>Bloon</Filter>
+    </ClInclude>
+    <ClInclude Include="Roserade.h">
+      <Filter>Bloon</Filter>
+    </ClInclude>
+    <ClInclude Include="Togekiss.h">
+      <Filter>Bloon</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Main.cpp" />
+    <ClCompile Include="Scene02.cpp">
+      <Filter>Scenes</Filter>
+    </ClCompile>
+    <ClCompile Include="Scene01.cpp">
+      <Filter>Scenes</Filter>
+    </ClCompile>
+    <ClCompile Include="Tower.cpp">
+      <Filter>Tower</Filter>
+    </ClCompile>
+    <ClCompile Include="Piplup.cpp">
+      <Filter>Tower</Filter>
+    </ClCompile>
+    <ClCompile Include="Turtwig.cpp">
+      <Filter>Tower</Filter>
+    </ClCompile>
+    <ClCompile Include="Bloon.cpp">
+      <Filter>Bloon</Filter>
+    </ClCompile>
+    <ClCompile Include="Magby.cpp">
+      <Filter>Bloon</Filter>
+    </ClCompile>
+    <ClCompile Include="Bellsprout.cpp">
+      <Filter>Bloon</Filter>
+    </ClCompile>
+    <ClCompile Include="Psyduck.cpp">
+      <Filter>Bloon</Filter>
+    </ClCompile>
+    <ClCompile Include="Chimchar.cpp">
+      <Filter>Tower</Filter>
+    </ClCompile>
+    <ClCompile Include="Rattata.cpp">
+      <Filter>Bloon</Filter>
+    </ClCompile>
+    <ClCompile Include="Purugly.cpp">
+      <Filter>Bloon</Filter>
+    </ClCompile>
+    <ClCompile Include="Skuntank.cpp">
+      <Filter>Bloon</Filter>
+    </ClCompile>
+    <ClCompile Include="Victreebel.cpp">
+      <Filter>Bloon</Filter>
+    </ClCompile>
+    <ClCompile Include="Golduck.cpp">
+      <Filter>Bloon</Filter>
+    </ClCompile>
+    <ClCompile Include="Magmator.cpp">
+      <Filter>Bloon</Filter>
+    </ClCompile>
+    <ClCompile Include="Charmander.cpp">
+      <Filter>Tower</Filter>
+    </ClCompile>
+    <ClCompile Include="Bulbasaur.cpp">
+      <Filter>Tower</Filter>
+    </ClCompile>
+    <ClCompile Include="Squirtle.cpp">
+      <Filter>Tower</Filter>
+    </ClCompile>
+    <ClCompile Include="Caterpie.cpp">
+      <Filter>Tower</Filter>
+    </ClCompile>
+    <ClCompile Include="Delibird.cpp">
+      <Filter>Tower</Filter>
+    </ClCompile>
+    <ClCompile Include="Happiny.cpp">
+      <Filter>Tower</Filter>
+    </ClCompile>
+    <ClCompile Include="Crobat.cpp">
+      <Filter>Bloon</Filter>
+    </ClCompile>
+    <ClCompile Include="Entity.cpp" />
+    <ClCompile Include="LoadingScene.cpp">
+      <Filter>Scenes</Filter>
+    </ClCompile>
+    <ClCompile Include="TextBar.cpp">
+      <Filter>Ui things</Filter>
+    </ClCompile>
+    <ClCompile Include="Ui.cpp">
+      <Filter>Ui things</Filter>
+    </ClCompile>
+    <ClCompile Include="Cursor.cpp">
+      <Filter>Ui things</Filter>
+    </ClCompile>
+    <ClCompile Include="Garchomp.cpp">
+      <Filter>Bloon</Filter>
+    </ClCompile>
+    <ClCompile Include="Milotic.cpp">
+      <Filter>Bloon</Filter>
+    </ClCompile>
+    <ClCompile Include="Ninetails.cpp">
+      <Filter>Bloon</Filter>
+    </ClCompile>
+    <ClCompile Include="Roserade.cpp">
+      <Filter>Bloon</Filter>
+    </ClCompile>
+    <ClCompile Include="Togekiss.cpp">
+      <Filter>Bloon</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Scenes">
+      <UniqueIdentifier>{d15067e9-e645-4bee-8270-59a1ad33b21c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Tower">
+      <UniqueIdentifier>{0da5deb4-c549-452e-96c2-f825dcf36618}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Bloon">
+      <UniqueIdentifier>{b6bf679f-c45a-437e-a25f-60f34cd7944b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Ui things">
+      <UniqueIdentifier>{f93a236a-02b9-46ec-8aa6-836a1317db2c}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

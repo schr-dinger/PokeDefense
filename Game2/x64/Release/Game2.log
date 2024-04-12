@@ -1,0 +1,198 @@
+﻿  Bellsprout.cpp
+  Bloon.cpp
+  Bulbasaur.cpp
+  Caterpie.cpp
+  Charmander.cpp
+  Chimchar.cpp
+  Crobat.cpp
+  Cursor.cpp
+  Delibird.cpp
+  Entity.cpp
+  Garchomp.cpp
+  Golduck.cpp
+  Happiny.cpp
+  LoadingScene.cpp
+  Magby.cpp
+  Magmator.cpp
+  Main.cpp
+  Milotic.cpp
+  Ninetails.cpp
+  Piplup.cpp
+  컴파일하고 있습니다...
+  Psyduck.cpp
+  Purugly.cpp
+  Rattata.cpp
+  Roserade.cpp
+  Scene01.cpp
+C:\Users\슈뢰딩거\Desktop\Tower_Bloon_Test_3\Game2\Scene01.cpp(175,23): warning C4244: '*=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\슈뢰딩거\Desktop\Tower_Bloon_Test_3\Game2\Scene01.cpp(190,22): warning C4244: '*=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\슈뢰딩거\Desktop\Tower_Bloon_Test_3\Game2\Scene01.cpp(196,22): warning C4244: '*=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\슈뢰딩거\Desktop\Tower_Bloon_Test_3\Game2\Scene01.cpp(202,22): warning C4244: '*=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\슈뢰딩거\Desktop\Tower_Bloon_Test_3\Game2\Scene01.cpp(208,22): warning C4244: '*=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\슈뢰딩거\Desktop\Tower_Bloon_Test_3\Game2\Scene01.cpp(214,22): warning C4244: '*=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\슈뢰딩거\Desktop\Tower_Bloon_Test_3\Game2\Scene01.cpp(220,22): warning C4244: '*=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\슈뢰딩거\Desktop\Tower_Bloon_Test_3\Game2\Scene01.cpp(226,22): warning C4244: '*=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\슈뢰딩거\Desktop\Tower_Bloon_Test_3\Game2\Scene01.cpp(232,22): warning C4244: '*=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\슈뢰딩거\Desktop\Tower_Bloon_Test_3\Game2\Scene01.cpp(238,22): warning C4244: '*=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Scene02.cpp
+C:\Users\슈뢰딩거\Desktop\Tower_Bloon_Test_3\Game2\Scene02.cpp(431,32): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\슈뢰딩거\Desktop\Tower_Bloon_Test_3\Game2\Scene02.cpp(456,32): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\슈뢰딩거\Desktop\Tower_Bloon_Test_3\Game2\Scene02.cpp(492,32): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\슈뢰딩거\Desktop\Tower_Bloon_Test_3\Game2\Scene02.cpp(511,32): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\슈뢰딩거\Desktop\Tower_Bloon_Test_3\Game2\Scene02.cpp(533,32): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\슈뢰딩거\Desktop\Tower_Bloon_Test_3\Game2\Scene02.cpp(551,32): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\슈뢰딩거\Desktop\Tower_Bloon_Test_3\Game2\Scene02.cpp(570,32): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\슈뢰딩거\Desktop\Tower_Bloon_Test_3\Game2\Scene02.cpp(600,32): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\슈뢰딩거\Desktop\Tower_Bloon_Test_3\Game2\Scene02.cpp(619,32): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\슈뢰딩거\Desktop\Tower_Bloon_Test_3\Game2\Scene02.cpp(638,32): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\슈뢰딩거\Desktop\Tower_Bloon_Test_3\Game2\Scene02.cpp(657,32): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\슈뢰딩거\Desktop\Tower_Bloon_Test_3\Game2\Scene02.cpp(680,32): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\슈뢰딩거\Desktop\Tower_Bloon_Test_3\Game2\Scene02.cpp(703,32): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\슈뢰딩거\Desktop\Tower_Bloon_Test_3\Game2\Scene02.cpp(721,32): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+  Skuntank.cpp
+  Squirtle.cpp
+  TextBar.cpp
+C:\Users\슈뢰딩거\Desktop\Tower_Bloon_Test_3\Game2\TextBar.cpp(123,32): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\슈뢰딩거\Desktop\Tower_Bloon_Test_3\Game2\TextBar.cpp(159,32): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\슈뢰딩거\Desktop\Tower_Bloon_Test_3\Game2\TextBar.cpp(190,32): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\슈뢰딩거\Desktop\Tower_Bloon_Test_3\Game2\TextBar.cpp(246,32): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\슈뢰딩거\Desktop\Tower_Bloon_Test_3\Game2\TextBar.cpp(309,32): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\슈뢰딩거\Desktop\Tower_Bloon_Test_3\Game2\TextBar.cpp(357,32): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\슈뢰딩거\Desktop\Tower_Bloon_Test_3\Game2\TextBar.cpp(384,32): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\슈뢰딩거\Desktop\Tower_Bloon_Test_3\Game2\TextBar.cpp(405,32): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\슈뢰딩거\Desktop\Tower_Bloon_Test_3\Game2\TextBar.cpp(426,32): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\슈뢰딩거\Desktop\Tower_Bloon_Test_3\Game2\TextBar.cpp(466,32): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\슈뢰딩거\Desktop\Tower_Bloon_Test_3\Game2\TextBar.cpp(491,32): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\슈뢰딩거\Desktop\Tower_Bloon_Test_3\Game2\TextBar.cpp(517,32): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\슈뢰딩거\Desktop\Tower_Bloon_Test_3\Game2\TextBar.cpp(539,32): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\슈뢰딩거\Desktop\Tower_Bloon_Test_3\Game2\TextBar.cpp(560,32): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\슈뢰딩거\Desktop\Tower_Bloon_Test_3\Game2\TextBar.cpp(581,32): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\슈뢰딩거\Desktop\Tower_Bloon_Test_3\Game2\TextBar.cpp(602,32): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\슈뢰딩거\Desktop\Tower_Bloon_Test_3\Game2\TextBar.cpp(623,32): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\슈뢰딩거\Desktop\Tower_Bloon_Test_3\Game2\TextBar.cpp(642,32): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\슈뢰딩거\Desktop\Tower_Bloon_Test_3\Game2\TextBar.cpp(662,32): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\슈뢰딩거\Desktop\Tower_Bloon_Test_3\Game2\TextBar.cpp(683,32): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+  Togekiss.cpp
+  Tower.cpp
+  Turtwig.cpp
+  Ui.cpp
+C:\Users\슈뢰딩거\Desktop\Tower_Bloon_Test_3\Game2\Ui.cpp(327,45): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Victreebel.cpp
+2DFrameWork.lib(ObImage.obj) : error LNK2038: '_ITERATOR_DEBUG_LEVEL'에 대해 불일치가 검색되었습니다. '2' 값이 '0'(Bellsprout.obj에 위치) 값과 일치하지 않습니다.
+2DFrameWork.lib(ObImage.obj) : error LNK2038: 'RuntimeLibrary'에 대해 불일치가 검색되었습니다. 'MDd_DynamicDebug' 값이 'MD_DynamicRelease'(Bellsprout.obj에 위치) 값과 일치하지 않습니다.
+2DFrameWork.lib(ObImage.obj) : warning LNK4075: '/EDITANDCONTINUE'이(가) '/OPT:ICF' 사양으로 인해 무시됩니다.
+2DFrameWork.lib(ObTileMap.obj) : error LNK2038: '_ITERATOR_DEBUG_LEVEL'에 대해 불일치가 검색되었습니다. '2' 값이 '0'(Bellsprout.obj에 위치) 값과 일치하지 않습니다.
+2DFrameWork.lib(ObTileMap.obj) : error LNK2038: 'RuntimeLibrary'에 대해 불일치가 검색되었습니다. 'MDd_DynamicDebug' 값이 'MD_DynamicRelease'(Bellsprout.obj에 위치) 값과 일치하지 않습니다.
+2DFrameWork.lib(ObCircle.obj) : error LNK2038: '_ITERATOR_DEBUG_LEVEL'에 대해 불일치가 검색되었습니다. '2' 값이 '0'(Bellsprout.obj에 위치) 값과 일치하지 않습니다.
+2DFrameWork.lib(ObCircle.obj) : error LNK2038: 'RuntimeLibrary'에 대해 불일치가 검색되었습니다. 'MDd_DynamicDebug' 값이 'MD_DynamicRelease'(Bellsprout.obj에 위치) 값과 일치하지 않습니다.
+2DFrameWork.lib(Timer.obj) : error LNK2038: '_ITERATOR_DEBUG_LEVEL'에 대해 불일치가 검색되었습니다. '2' 값이 '0'(Bellsprout.obj에 위치) 값과 일치하지 않습니다.
+2DFrameWork.lib(Timer.obj) : error LNK2038: 'RuntimeLibrary'에 대해 불일치가 검색되었습니다. 'MDd_DynamicDebug' 값이 'MD_DynamicRelease'(Bellsprout.obj에 위치) 값과 일치하지 않습니다.
+2DFrameWork.lib(Utility.obj) : error LNK2038: '_ITERATOR_DEBUG_LEVEL'에 대해 불일치가 검색되었습니다. '2' 값이 '0'(Bellsprout.obj에 위치) 값과 일치하지 않습니다.
+2DFrameWork.lib(Utility.obj) : error LNK2038: 'RuntimeLibrary'에 대해 불일치가 검색되었습니다. 'MDd_DynamicDebug' 값이 'MD_DynamicRelease'(Bellsprout.obj에 위치) 값과 일치하지 않습니다.
+2DFrameWork.lib(GameObject.obj) : error LNK2038: '_ITERATOR_DEBUG_LEVEL'에 대해 불일치가 검색되었습니다. '2' 값이 '0'(Bellsprout.obj에 위치) 값과 일치하지 않습니다.
+2DFrameWork.lib(GameObject.obj) : error LNK2038: 'RuntimeLibrary'에 대해 불일치가 검색되었습니다. 'MDd_DynamicDebug' 값이 'MD_DynamicRelease'(Bellsprout.obj에 위치) 값과 일치하지 않습니다.
+2DFrameWork.lib(ObRect.obj) : error LNK2038: '_ITERATOR_DEBUG_LEVEL'에 대해 불일치가 검색되었습니다. '2' 값이 '0'(Bellsprout.obj에 위치) 값과 일치하지 않습니다.
+2DFrameWork.lib(ObRect.obj) : error LNK2038: 'RuntimeLibrary'에 대해 불일치가 검색되었습니다. 'MDd_DynamicDebug' 값이 'MD_DynamicRelease'(Bellsprout.obj에 위치) 값과 일치하지 않습니다.
+2DFrameWork.lib(Input.obj) : error LNK2038: '_ITERATOR_DEBUG_LEVEL'에 대해 불일치가 검색되었습니다. '2' 값이 '0'(Bellsprout.obj에 위치) 값과 일치하지 않습니다.
+2DFrameWork.lib(Input.obj) : error LNK2038: 'RuntimeLibrary'에 대해 불일치가 검색되었습니다. 'MDd_DynamicDebug' 값이 'MD_DynamicRelease'(Bellsprout.obj에 위치) 값과 일치하지 않습니다.
+2DFrameWork.lib(Window.obj) : error LNK2038: '_ITERATOR_DEBUG_LEVEL'에 대해 불일치가 검색되었습니다. '2' 값이 '0'(Bellsprout.obj에 위치) 값과 일치하지 않습니다.
+2DFrameWork.lib(Window.obj) : error LNK2038: 'RuntimeLibrary'에 대해 불일치가 검색되었습니다. 'MDd_DynamicDebug' 값이 'MD_DynamicRelease'(Bellsprout.obj에 위치) 값과 일치하지 않습니다.
+2DFrameWork.lib(SceneManager.obj) : error LNK2038: '_ITERATOR_DEBUG_LEVEL'에 대해 불일치가 검색되었습니다. '2' 값이 '0'(Bellsprout.obj에 위치) 값과 일치하지 않습니다.
+2DFrameWork.lib(SceneManager.obj) : error LNK2038: 'RuntimeLibrary'에 대해 불일치가 검색되었습니다. 'MDd_DynamicDebug' 값이 'MD_DynamicRelease'(Bellsprout.obj에 위치) 값과 일치하지 않습니다.
+2DFrameWork.lib(Light.obj) : error LNK2038: '_ITERATOR_DEBUG_LEVEL'에 대해 불일치가 검색되었습니다. '2' 값이 '0'(Bellsprout.obj에 위치) 값과 일치하지 않습니다.
+2DFrameWork.lib(Light.obj) : error LNK2038: 'RuntimeLibrary'에 대해 불일치가 검색되었습니다. 'MDd_DynamicDebug' 값이 'MD_DynamicRelease'(Bellsprout.obj에 위치) 값과 일치하지 않습니다.
+2DFrameWork.lib(Sound.obj) : error LNK2038: '_ITERATOR_DEBUG_LEVEL'에 대해 불일치가 검색되었습니다. '2' 값이 '0'(Bellsprout.obj에 위치) 값과 일치하지 않습니다.
+2DFrameWork.lib(Sound.obj) : error LNK2038: 'RuntimeLibrary'에 대해 불일치가 검색되었습니다. 'MDd_DynamicDebug' 값이 'MD_DynamicRelease'(Bellsprout.obj에 위치) 값과 일치하지 않습니다.
+2DFrameWork.lib(Random.obj) : error LNK2038: '_ITERATOR_DEBUG_LEVEL'에 대해 불일치가 검색되었습니다. '2' 값이 '0'(Bellsprout.obj에 위치) 값과 일치하지 않습니다.
+2DFrameWork.lib(Random.obj) : error LNK2038: 'RuntimeLibrary'에 대해 불일치가 검색되었습니다. 'MDd_DynamicDebug' 값이 'MD_DynamicRelease'(Bellsprout.obj에 위치) 값과 일치하지 않습니다.
+2DFrameWork.lib(DWrite.obj) : error LNK2038: '_ITERATOR_DEBUG_LEVEL'에 대해 불일치가 검색되었습니다. '2' 값이 '0'(Bellsprout.obj에 위치) 값과 일치하지 않습니다.
+2DFrameWork.lib(DWrite.obj) : error LNK2038: 'RuntimeLibrary'에 대해 불일치가 검색되었습니다. 'MDd_DynamicDebug' 값이 'MD_DynamicRelease'(Bellsprout.obj에 위치) 값과 일치하지 않습니다.
+2DFrameWork.lib(Camera.obj) : error LNK2038: '_ITERATOR_DEBUG_LEVEL'에 대해 불일치가 검색되었습니다. '2' 값이 '0'(Bellsprout.obj에 위치) 값과 일치하지 않습니다.
+2DFrameWork.lib(Camera.obj) : error LNK2038: 'RuntimeLibrary'에 대해 불일치가 검색되었습니다. 'MDd_DynamicDebug' 값이 'MD_DynamicRelease'(Bellsprout.obj에 위치) 값과 일치하지 않습니다.
+2DFrameWork.lib(Direct3D11.obj) : error LNK2038: '_ITERATOR_DEBUG_LEVEL'에 대해 불일치가 검색되었습니다. '2' 값이 '0'(Bellsprout.obj에 위치) 값과 일치하지 않습니다.
+2DFrameWork.lib(Direct3D11.obj) : error LNK2038: 'RuntimeLibrary'에 대해 불일치가 검색되었습니다. 'MDd_DynamicDebug' 값이 'MD_DynamicRelease'(Bellsprout.obj에 위치) 값과 일치하지 않습니다.
+2DFrameWork.lib(Texture.obj) : error LNK2038: '_ITERATOR_DEBUG_LEVEL'에 대해 불일치가 검색되었습니다. '2' 값이 '0'(Bellsprout.obj에 위치) 값과 일치하지 않습니다.
+2DFrameWork.lib(Texture.obj) : error LNK2038: 'RuntimeLibrary'에 대해 불일치가 검색되었습니다. 'MDd_DynamicDebug' 값이 'MD_DynamicRelease'(Bellsprout.obj에 위치) 값과 일치하지 않습니다.
+2DFrameWork.lib(Shader.obj) : error LNK2038: '_ITERATOR_DEBUG_LEVEL'에 대해 불일치가 검색되었습니다. '2' 값이 '0'(Bellsprout.obj에 위치) 값과 일치하지 않습니다.
+2DFrameWork.lib(Shader.obj) : error LNK2038: 'RuntimeLibrary'에 대해 불일치가 검색되었습니다. 'MDd_DynamicDebug' 값이 'MD_DynamicRelease'(Bellsprout.obj에 위치) 값과 일치하지 않습니다.
+2DFrameWork.lib(ObLine.obj) : error LNK2038: '_ITERATOR_DEBUG_LEVEL'에 대해 불일치가 검색되었습니다. '2' 값이 '0'(Bellsprout.obj에 위치) 값과 일치하지 않습니다.
+2DFrameWork.lib(ObLine.obj) : error LNK2038: 'RuntimeLibrary'에 대해 불일치가 검색되었습니다. 'MDd_DynamicDebug' 값이 'MD_DynamicRelease'(Bellsprout.obj에 위치) 값과 일치하지 않습니다.
+2DFrameWork.lib(Gui.obj) : error LNK2038: '_ITERATOR_DEBUG_LEVEL'에 대해 불일치가 검색되었습니다. '2' 값이 '0'(Bellsprout.obj에 위치) 값과 일치하지 않습니다.
+2DFrameWork.lib(Gui.obj) : error LNK2038: 'RuntimeLibrary'에 대해 불일치가 검색되었습니다. 'MDd_DynamicDebug' 값이 'MD_DynamicRelease'(Bellsprout.obj에 위치) 값과 일치하지 않습니다.
+msvcprtd.lib(locale0_implib.obj) : error LNK2038: 'RuntimeLibrary'에 대해 불일치가 검색되었습니다. 'MDd_DynamicDebug' 값이 'MD_DynamicRelease'(Bellsprout.obj에 위치) 값과 일치하지 않습니다.
+DirectXTex.lib(DirectXTexImage.obj) : error LNK2038: '_ITERATOR_DEBUG_LEVEL'에 대해 불일치가 검색되었습니다. '2' 값이 '0'(Bellsprout.obj에 위치) 값과 일치하지 않습니다.
+DirectXTex.lib(DirectXTexImage.obj) : error LNK2038: 'RuntimeLibrary'에 대해 불일치가 검색되었습니다. 'MDd_DynamicDebug' 값이 'MD_DynamicRelease'(Bellsprout.obj에 위치) 값과 일치하지 않습니다.
+DirectXTex.lib(DirectXTexWIC.obj) : error LNK2038: '_ITERATOR_DEBUG_LEVEL'에 대해 불일치가 검색되었습니다. '2' 값이 '0'(Bellsprout.obj에 위치) 값과 일치하지 않습니다.
+DirectXTex.lib(DirectXTexWIC.obj) : error LNK2038: 'RuntimeLibrary'에 대해 불일치가 검색되었습니다. 'MDd_DynamicDebug' 값이 'MD_DynamicRelease'(Bellsprout.obj에 위치) 값과 일치하지 않습니다.
+DirectXTex.lib(DirectXTexD3D11.obj) : error LNK2038: '_ITERATOR_DEBUG_LEVEL'에 대해 불일치가 검색되었습니다. '2' 값이 '0'(Bellsprout.obj에 위치) 값과 일치하지 않습니다.
+DirectXTex.lib(DirectXTexD3D11.obj) : error LNK2038: 'RuntimeLibrary'에 대해 불일치가 검색되었습니다. 'MDd_DynamicDebug' 값이 'MD_DynamicRelease'(Bellsprout.obj에 위치) 값과 일치하지 않습니다.
+DirectXTex.lib(DirectXTexUtil.obj) : error LNK2038: '_ITERATOR_DEBUG_LEVEL'에 대해 불일치가 검색되었습니다. '2' 값이 '0'(Bellsprout.obj에 위치) 값과 일치하지 않습니다.
+DirectXTex.lib(DirectXTexUtil.obj) : error LNK2038: 'RuntimeLibrary'에 대해 불일치가 검색되었습니다. 'MDd_DynamicDebug' 값이 'MD_DynamicRelease'(Bellsprout.obj에 위치) 값과 일치하지 않습니다.
+DirectXTex.lib(DirectXTexConvert.obj) : error LNK2038: '_ITERATOR_DEBUG_LEVEL'에 대해 불일치가 검색되었습니다. '2' 값이 '0'(Bellsprout.obj에 위치) 값과 일치하지 않습니다.
+DirectXTex.lib(DirectXTexConvert.obj) : error LNK2038: 'RuntimeLibrary'에 대해 불일치가 검색되었습니다. 'MDd_DynamicDebug' 값이 'MD_DynamicRelease'(Bellsprout.obj에 위치) 값과 일치하지 않습니다.
+DirectXTex.lib(DirectXTexMipMaps.obj) : error LNK2038: '_ITERATOR_DEBUG_LEVEL'에 대해 불일치가 검색되었습니다. '2' 값이 '0'(Bellsprout.obj에 위치) 값과 일치하지 않습니다.
+DirectXTex.lib(DirectXTexMipMaps.obj) : error LNK2038: 'RuntimeLibrary'에 대해 불일치가 검색되었습니다. 'MDd_DynamicDebug' 값이 'MD_DynamicRelease'(Bellsprout.obj에 위치) 값과 일치하지 않습니다.
+DirectXTex.lib(DirectXTexCompress.obj) : error LNK2038: '_ITERATOR_DEBUG_LEVEL'에 대해 불일치가 검색되었습니다. '2' 값이 '0'(Bellsprout.obj에 위치) 값과 일치하지 않습니다.
+DirectXTex.lib(DirectXTexCompress.obj) : error LNK2038: 'RuntimeLibrary'에 대해 불일치가 검색되었습니다. 'MDd_DynamicDebug' 값이 'MD_DynamicRelease'(Bellsprout.obj에 위치) 값과 일치하지 않습니다.
+DirectXTex.lib(BC.obj) : error LNK2038: '_ITERATOR_DEBUG_LEVEL'에 대해 불일치가 검색되었습니다. '2' 값이 '0'(Bellsprout.obj에 위치) 값과 일치하지 않습니다.
+DirectXTex.lib(BC.obj) : error LNK2038: 'RuntimeLibrary'에 대해 불일치가 검색되었습니다. 'MDd_DynamicDebug' 값이 'MD_DynamicRelease'(Bellsprout.obj에 위치) 값과 일치하지 않습니다.
+DirectXTex.lib(BC4BC5.obj) : error LNK2038: '_ITERATOR_DEBUG_LEVEL'에 대해 불일치가 검색되었습니다. '2' 값이 '0'(Bellsprout.obj에 위치) 값과 일치하지 않습니다.
+DirectXTex.lib(BC4BC5.obj) : error LNK2038: 'RuntimeLibrary'에 대해 불일치가 검색되었습니다. 'MDd_DynamicDebug' 값이 'MD_DynamicRelease'(Bellsprout.obj에 위치) 값과 일치하지 않습니다.
+DirectXTex.lib(BC6HBC7.obj) : error LNK2038: '_ITERATOR_DEBUG_LEVEL'에 대해 불일치가 검색되었습니다. '2' 값이 '0'(Bellsprout.obj에 위치) 값과 일치하지 않습니다.
+DirectXTex.lib(BC6HBC7.obj) : error LNK2038: 'RuntimeLibrary'에 대해 불일치가 검색되었습니다. 'MDd_DynamicDebug' 값이 'MD_DynamicRelease'(Bellsprout.obj에 위치) 값과 일치하지 않습니다.
+example_win32_directx11.lib(ImGuiFileDialog.obj) : error LNK2038: '_ITERATOR_DEBUG_LEVEL'에 대해 불일치가 검색되었습니다. '2' 값이 '0'(Bellsprout.obj에 위치) 값과 일치하지 않습니다.
+example_win32_directx11.lib(ImGuiFileDialog.obj) : error LNK2038: 'RuntimeLibrary'에 대해 불일치가 검색되었습니다. 'MDd_DynamicDebug' 값이 'MD_DynamicRelease'(Bellsprout.obj에 위치) 값과 일치하지 않습니다.
+     C:\Users\슈뢰딩거\Desktop\Tower_Bloon_Test_3\x64\Release\Game2.lib 라이브러리 및 C:\Users\슈뢰딩거\Desktop\Tower_Bloon_Test_3\x64\Release\Game2.exp 개체를 생성하고 있습니다.
+LINK : warning LNK4098: 'MSVCRTD' defaultlib가 다른 라이브러리와 충돌합니다. /NODEFAULTLIB:library를 사용하십시오.
+DirectXTex.lib(DirectXTexMipMaps.obj) : error LNK2001: 확인할 수 없는 외부 기호 __imp__invalid_parameter
+example_win32_directx11.lib(ImGuiFileDialog.obj) : error LNK2001: 확인할 수 없는 외부 기호 __imp__invalid_parameter
+2DFrameWork.lib(Direct3D11.obj) : error LNK2001: 확인할 수 없는 외부 기호 __imp__invalid_parameter
+2DFrameWork.lib(Texture.obj) : error LNK2001: 확인할 수 없는 외부 기호 __imp__invalid_parameter
+2DFrameWork.lib(Shader.obj) : error LNK2001: 확인할 수 없는 외부 기호 __imp__invalid_parameter
+2DFrameWork.lib(Gui.obj) : error LNK2001: 확인할 수 없는 외부 기호 __imp__invalid_parameter
+2DFrameWork.lib(SceneManager.obj) : error LNK2001: 확인할 수 없는 외부 기호 __imp__invalid_parameter
+2DFrameWork.lib(Sound.obj) : error LNK2001: 확인할 수 없는 외부 기호 __imp__invalid_parameter
+2DFrameWork.lib(Random.obj) : error LNK2001: 확인할 수 없는 외부 기호 __imp__invalid_parameter
+2DFrameWork.lib(DWrite.obj) : error LNK2001: 확인할 수 없는 외부 기호 __imp__invalid_parameter
+2DFrameWork.lib(ObImage.obj) : error LNK2001: 확인할 수 없는 외부 기호 __imp__invalid_parameter
+2DFrameWork.lib(ObTileMap.obj) : error LNK2001: 확인할 수 없는 외부 기호 __imp__invalid_parameter
+2DFrameWork.lib(GameObject.obj) : error LNK2001: 확인할 수 없는 외부 기호 __imp__invalid_parameter
+2DFrameWork.lib(Window.obj) : error LNK2001: 확인할 수 없는 외부 기호 __imp__invalid_parameter
+example_win32_directx11.lib(ImGuiFileDialog.obj) : error LNK2001: 확인할 수 없는 외부 기호 __imp__calloc_dbg
+2DFrameWork.lib(Texture.obj) : error LNK2001: 확인할 수 없는 외부 기호 __imp__calloc_dbg
+2DFrameWork.lib(Shader.obj) : error LNK2001: 확인할 수 없는 외부 기호 __imp__calloc_dbg
+2DFrameWork.lib(ObLine.obj) : error LNK2001: 확인할 수 없는 외부 기호 __imp__calloc_dbg
+2DFrameWork.lib(Gui.obj) : error LNK2001: 확인할 수 없는 외부 기호 __imp__calloc_dbg
+2DFrameWork.lib(Random.obj) : error LNK2001: 확인할 수 없는 외부 기호 __imp__calloc_dbg
+2DFrameWork.lib(DWrite.obj) : error LNK2001: 확인할 수 없는 외부 기호 __imp__calloc_dbg
+2DFrameWork.lib(Camera.obj) : error LNK2001: 확인할 수 없는 외부 기호 __imp__calloc_dbg
+2DFrameWork.lib(Direct3D11.obj) : error LNK2001: 확인할 수 없는 외부 기호 __imp__calloc_dbg
+2DFrameWork.lib(Window.obj) : error LNK2001: 확인할 수 없는 외부 기호 __imp__calloc_dbg
+2DFrameWork.lib(SceneManager.obj) : error LNK2001: 확인할 수 없는 외부 기호 __imp__calloc_dbg
+2DFrameWork.lib(Light.obj) : error LNK2001: 확인할 수 없는 외부 기호 __imp__calloc_dbg
+2DFrameWork.lib(Sound.obj) : error LNK2001: 확인할 수 없는 외부 기호 __imp__calloc_dbg
+2DFrameWork.lib(Utility.obj) : error LNK2001: 확인할 수 없는 외부 기호 __imp__calloc_dbg
+2DFrameWork.lib(GameObject.obj) : error LNK2001: 확인할 수 없는 외부 기호 __imp__calloc_dbg
+2DFrameWork.lib(ObRect.obj) : error LNK2001: 확인할 수 없는 외부 기호 __imp__calloc_dbg
+2DFrameWork.lib(Input.obj) : error LNK2001: 확인할 수 없는 외부 기호 __imp__calloc_dbg
+2DFrameWork.lib(ObImage.obj) : error LNK2001: 확인할 수 없는 외부 기호 __imp__calloc_dbg
+2DFrameWork.lib(ObTileMap.obj) : error LNK2001: 확인할 수 없는 외부 기호 __imp__calloc_dbg
+2DFrameWork.lib(ObCircle.obj) : error LNK2001: 확인할 수 없는 외부 기호 __imp__calloc_dbg
+2DFrameWork.lib(Timer.obj) : error LNK2001: 확인할 수 없는 외부 기호 __imp__calloc_dbg
+DirectXTex.lib(DirectXTexMipMaps.obj) : error LNK2001: 확인할 수 없는 외부 기호 __imp__CrtDbgReport
+example_win32_directx11.lib(ImGuiFileDialog.obj) : error LNK2001: 확인할 수 없는 외부 기호 __imp__CrtDbgReport
+2DFrameWork.lib(Direct3D11.obj) : error LNK2001: 확인할 수 없는 외부 기호 __imp__CrtDbgReport
+2DFrameWork.lib(Texture.obj) : error LNK2001: 확인할 수 없는 외부 기호 __imp__CrtDbgReport
+2DFrameWork.lib(Shader.obj) : error LNK2001: 확인할 수 없는 외부 기호 __imp__CrtDbgReport
+2DFrameWork.lib(Gui.obj) : error LNK2001: 확인할 수 없는 외부 기호 __imp__CrtDbgReport
+2DFrameWork.lib(SceneManager.obj) : error LNK2001: 확인할 수 없는 외부 기호 __imp__CrtDbgReport
+2DFrameWork.lib(Sound.obj) : error LNK2001: 확인할 수 없는 외부 기호 __imp__CrtDbgReport
+2DFrameWork.lib(Random.obj) : error LNK2001: 확인할 수 없는 외부 기호 __imp__CrtDbgReport
+2DFrameWork.lib(DWrite.obj) : error LNK2001: 확인할 수 없는 외부 기호 __imp__CrtDbgReport
+2DFrameWork.lib(ObImage.obj) : error LNK2001: 확인할 수 없는 외부 기호 __imp__CrtDbgReport
+2DFrameWork.lib(ObTileMap.obj) : error LNK2001: 확인할 수 없는 외부 기호 __imp__CrtDbgReport
+2DFrameWork.lib(GameObject.obj) : error LNK2001: 확인할 수 없는 외부 기호 __imp__CrtDbgReport
+2DFrameWork.lib(Window.obj) : error LNK2001: 확인할 수 없는 외부 기호 __imp__CrtDbgReport
+msvcprtd.lib(locale0_implib.obj) : error LNK2001: 확인할 수 없는 외부 기호 __imp__free_dbg
+msvcprtd.lib(locale0_implib.obj) : error LNK2001: 확인할 수 없는 외부 기호 __imp__malloc_dbg
+C:\Users\슈뢰딩거\Desktop\Tower_Bloon_Test_3\x64\Release\Game2.exe : fatal error LNK1120: 5개의 확인할 수 없는 외부 참조입니다.

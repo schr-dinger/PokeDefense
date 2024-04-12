@@ -1,0 +1,265 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33815.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "2DFrameWork", "2DFrameWork\2DFrameWork.vcxproj", "{C2138BC9-A195-455F-91A6-5FF469EB5E61}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Game1", "Game1\Game1.vcxproj", "{62755BC4-7433-469B-8413-314F6EC62971}"
+	ProjectSection(ProjectDependencies) = postProject
+		{C2138BC9-A195-455F-91A6-5FF469EB5E61} = {C2138BC9-A195-455F-91A6-5FF469EB5E61}
+	EndProjectSection
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Game2", "Game2\Game2.vcxproj", "{E4AABC26-46D5-436A-BE00-FF12933156D1}"
+	ProjectSection(ProjectDependencies) = postProject
+		{C2138BC9-A195-455F-91A6-5FF469EB5E61} = {C2138BC9-A195-455F-91A6-5FF469EB5E61}
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Contents", "Contents", "{0EC98764-9025-4AF9-8937-0EB5970059BA}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Shaders", "Shaders", "{E3F02C0D-0DAD-4181-A968-85F48C12D251}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\six\Framework\Shaders\1.Basic.hlsl = ..\..\six\Framework\Shaders\1.Basic.hlsl
+		..\..\six\Framework\Shaders\2.Image.hlsl = ..\..\six\Framework\Shaders\2.Image.hlsl
+		..\..\six\Framework\Shaders\3.TileMap.hlsl = ..\..\six\Framework\Shaders\3.TileMap.hlsl
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Txt", "Txt", "{BC1DD457-26F1-4145-994B-7D33F751C292}"
+	ProjectSection(SolutionItems) = preProject
+		Txt\벡터.txt = Txt\벡터.txt
+		Txt\삼각함수.txt = Txt\삼각함수.txt
+		Txt\좌표해상도.txt = Txt\좌표해상도.txt
+		Txt\행렬.txt = Txt\행렬.txt
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Sound", "Sound", "{031D9208-75CB-45ED-AE3F-F9B0AA28E8CC}"
+	ProjectSection(SolutionItems) = preProject
+		Contents\Sound\Beep.wav = Contents\Sound\Beep.wav
+		..\..\..\Desktop\Framework\Contents\Sound\bgm.wav = ..\..\..\Desktop\Framework\Contents\Sound\bgm.wav
+		Contents\Sound\Bossmusic.wav = Contents\Sound\Bossmusic.wav
+		Contents\Sound\Btd6.wav = Contents\Sound\Btd6.wav
+		Contents\Sound\Cyrus.wav = Contents\Sound\Cyrus.wav
+		Contents\Sound\Door.wav = Contents\Sound\Door.wav
+		Contents\Sound\Galactic.wav = Contents\Sound\Galactic.wav
+		Contents\Sound\Garchomp.wav = Contents\Sound\Garchomp.wav
+		..\..\..\Desktop\Framework\Contents\Sound\gun.wav = ..\..\..\Desktop\Framework\Contents\Sound\gun.wav
+		Contents\Sound\Lavender_Town.wav = Contents\Sound\Lavender_Town.wav
+		Contents\Sound\Route_1.wav = Contents\Sound\Route_1.wav
+		Contents\Sound\Starting_Town.wav = Contents\Sound\Starting_Town.wav
+	EndProjectSection
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TileMapEditor", "TileMapEditor\TileMapEditor.vcxproj", "{EE1564FE-B5EC-4153-B411-96B5F32A1230}"
+	ProjectSection(ProjectDependencies) = postProject
+		{C2138BC9-A195-455F-91A6-5FF469EB5E61} = {C2138BC9-A195-455F-91A6-5FF469EB5E61}
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Images", "Images", "{E27B69EA-AE84-467C-A981-0C5B234E458A}"
+	ProjectSection(SolutionItems) = preProject
+		Contents\Images\Item\Choice_band.png = Contents\Images\Item\Choice_band.png
+		Contents\Images\Item\Choice_scarf.png = Contents\Images\Item\Choice_scarf.png
+		Contents\Images\Item\Choice_specs.png = Contents\Images\Item\Choice_specs.png
+		Contents\Images\Cursor\Cursor_default.png = Contents\Images\Cursor\Cursor_default.png
+		Contents\Images\Cursor\Cursor_grab.png = Contents\Images\Cursor\Cursor_grab.png
+		Contents\Images\Cursor\Cursor_letgo.png = Contents\Images\Cursor\Cursor_letgo.png
+		Contents\Images\Venusaur\Flower.png = Contents\Images\Venusaur\Flower.png
+		Contents\Images\Ui\Home.PNG = Contents\Images\Ui\Home.PNG
+		Contents\Images\Loading_bg.jpg = Contents\Images\Loading_bg.jpg
+		Contents\Images\Loading_starter.jpg = Contents\Images\Loading_starter.jpg
+		Contents\Images\Pika_dance.png = Contents\Images\Pika_dance.png
+		Contents\Images\Item\Rare_candy.png = Contents\Images\Item\Rare_candy.png
+		Contents\Images\Effect\SEIcon_Poison.png = Contents\Images\Effect\SEIcon_Poison.png
+		Contents\Images\Ui\Shadow.png = Contents\Images\Ui\Shadow.png
+		Contents\Images\Effect\StatusEffectIcon_AttackUp.png = Contents\Images\Effect\StatusEffectIcon_AttackUp.png
+		Contents\Images\Effect\StatusEffectIcon_DefenseDown.png = Contents\Images\Effect\StatusEffectIcon_DefenseDown.png
+		Contents\Images\Tile.png = Contents\Images\Tile.png
+		Contents\Images\Tile2.png = Contents\Images\Tile2.png
+		Contents\Images\Bulbasaur\Vines.png = Contents\Images\Bulbasaur\Vines.png
+		Contents\Images\Item\Wide_lens.png = Contents\Images\Item\Wide_lens.png
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "TextBar", "TextBar", "{F3C92F7B-6CAE-4962-94EA-1954F04453F4}"
+	ProjectSection(SolutionItems) = preProject
+		Contents\Images\TextBar\Arrow.png = Contents\Images\TextBar\Arrow.png
+		Contents\Images\TextBar\Cynthia.png = Contents\Images\TextBar\Cynthia.png
+		Contents\Images\TextBar\Cyrus.png = Contents\Images\TextBar\Cyrus.png
+		Contents\Images\TextBar\Giratina.png = Contents\Images\TextBar\Giratina.png
+		Contents\Images\TextBar\Giratina_Enter.png = Contents\Images\TextBar\Giratina_Enter.png
+		Contents\Images\Ui\heart.png = Contents\Images\Ui\heart.png
+		Contents\Images\TextBar\Jupiter.png = Contents\Images\TextBar\Jupiter.png
+		Contents\Images\TextBar\Lucas.png = Contents\Images\TextBar\Lucas.png
+		Contents\Images\TextBar\Mars.png = Contents\Images\TextBar\Mars.png
+		Contents\Images\TextBar\Poke_text_box.png = Contents\Images\TextBar\Poke_text_box.png
+		Contents\Images\TextBar\Professor_Rowan.png = Contents\Images\TextBar\Professor_Rowan.png
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Town", "Town", "{634C0BD8-3456-4A05-A4DB-4189A28BAF1C}"
+	ProjectSection(SolutionItems) = preProject
+		Contents\Images\Town\Bang.png = Contents\Images\Town\Bang.png
+		Contents\Images\Town\Cynthia_N.png = Contents\Images\Town\Cynthia_N.png
+		Contents\Images\Town\Cynthia_S.png = Contents\Images\Town\Cynthia_S.png
+		Contents\Images\Town\Lab.png = Contents\Images\Town\Lab.png
+		Contents\Images\Town\Player_N.png = Contents\Images\Town\Player_N.png
+		Contents\Images\Town\Player_S.png = Contents\Images\Town\Player_S.png
+		Contents\Images\Town\Question.png = Contents\Images\Town\Question.png
+		Contents\Images\Town\Rowan_move_S.png = Contents\Images\Town\Rowan_move_S.png
+		Contents\Images\Town\Town.png = Contents\Images\Town\Town.png
+		Contents\Images\Town\Town2.png = Contents\Images\Town\Town2.png
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Item", "Item", "{1D28FE3D-86EB-4370-BF05-EC8393761DC9}"
+	ProjectSection(SolutionItems) = preProject
+		Contents\Images\Item\Choice_band.png = Contents\Images\Item\Choice_band.png
+		Contents\Images\Item\Choice_scarf.png = Contents\Images\Item\Choice_scarf.png
+		Contents\Images\Item\Choice_specs.png = Contents\Images\Item\Choice_specs.png
+		Contents\Images\Item\Griseous.png = Contents\Images\Item\Griseous.png
+		Contents\Images\Item\Rare_candy.png = Contents\Images\Item\Rare_candy.png
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Pokemon", "Pokemon", "{EAF3EE73-CA2D-4E33-8DF3-C615AC4BCDAE}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tower", "Tower", "{329A0422-B502-410A-8E36-E96888C46C68}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Bloon", "Bloon", "{C4ACAC1D-3AE4-4E0E-B5FA-9798EBFAF307}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Ninetails", "Ninetails", "{BB9B2401-2A4F-4A49-90C4-7230BA99746C}"
+	ProjectSection(SolutionItems) = preProject
+		Contents\Images\Ninetails\Ninetails_hurt_E.png = Contents\Images\Ninetails\Ninetails_hurt_E.png
+		Contents\Images\Ninetails\Ninetails_hurt_N.png = Contents\Images\Ninetails\Ninetails_hurt_N.png
+		Contents\Images\Ninetails\Ninetails_hurt_NE.png = Contents\Images\Ninetails\Ninetails_hurt_NE.png
+		Contents\Images\Ninetails\Ninetails_hurt_NW.png = Contents\Images\Ninetails\Ninetails_hurt_NW.png
+		Contents\Images\Ninetails\Ninetails_hurt_S.png = Contents\Images\Ninetails\Ninetails_hurt_S.png
+		Contents\Images\Ninetails\Ninetails_hurt_SE.png = Contents\Images\Ninetails\Ninetails_hurt_SE.png
+		Contents\Images\Ninetails\Ninetails_hurt_SW.png = Contents\Images\Ninetails\Ninetails_hurt_SW.png
+		Contents\Images\Ninetails\Ninetails_hurt_W.png = Contents\Images\Ninetails\Ninetails_hurt_W.png
+		Contents\Images\Ninetails\Ninetails_move_E.png = Contents\Images\Ninetails\Ninetails_move_E.png
+		Contents\Images\Ninetails\Ninetails_move_N.png = Contents\Images\Ninetails\Ninetails_move_N.png
+		Contents\Images\Ninetails\Ninetails_move_NE.png = Contents\Images\Ninetails\Ninetails_move_NE.png
+		Contents\Images\Ninetails\Ninetails_move_NW.png = Contents\Images\Ninetails\Ninetails_move_NW.png
+		Contents\Images\Ninetails\Ninetails_move_S.png = Contents\Images\Ninetails\Ninetails_move_S.png
+		Contents\Images\Ninetails\Ninetails_move_SE.png = Contents\Images\Ninetails\Ninetails_move_SE.png
+		Contents\Images\Ninetails\Ninetails_move_SW.png = Contents\Images\Ninetails\Ninetails_move_SW.png
+		Contents\Images\Ninetails\Ninetails_move_W.png = Contents\Images\Ninetails\Ninetails_move_W.png
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Milotic", "Milotic", "{FE729498-E2B4-4237-B2F7-29500C2C1D19}"
+	ProjectSection(SolutionItems) = preProject
+		Contents\Images\Milotic\Milotic_hurt_E.png = Contents\Images\Milotic\Milotic_hurt_E.png
+		Contents\Images\Milotic\Milotic_hurt_N.png = Contents\Images\Milotic\Milotic_hurt_N.png
+		Contents\Images\Milotic\Milotic_hurt_NE.png = Contents\Images\Milotic\Milotic_hurt_NE.png
+		Contents\Images\Milotic\Milotic_hurt_NW.png = Contents\Images\Milotic\Milotic_hurt_NW.png
+		Contents\Images\Milotic\Milotic_hurt_S.png = Contents\Images\Milotic\Milotic_hurt_S.png
+		Contents\Images\Milotic\Milotic_hurt_SE.png = Contents\Images\Milotic\Milotic_hurt_SE.png
+		Contents\Images\Milotic\Milotic_hurt_SW.png = Contents\Images\Milotic\Milotic_hurt_SW.png
+		Contents\Images\Milotic\Milotic_hurt_W.png = Contents\Images\Milotic\Milotic_hurt_W.png
+		Contents\Images\Milotic\Milotic_move_E.png = Contents\Images\Milotic\Milotic_move_E.png
+		Contents\Images\Milotic\Milotic_move_N.png = Contents\Images\Milotic\Milotic_move_N.png
+		Contents\Images\Milotic\Milotic_move_NE.png = Contents\Images\Milotic\Milotic_move_NE.png
+		Contents\Images\Milotic\Milotic_move_NW.png = Contents\Images\Milotic\Milotic_move_NW.png
+		Contents\Images\Milotic\Milotic_move_S.png = Contents\Images\Milotic\Milotic_move_S.png
+		Contents\Images\Milotic\Milotic_move_SE.png = Contents\Images\Milotic\Milotic_move_SE.png
+		Contents\Images\Milotic\Milotic_move_SW.png = Contents\Images\Milotic\Milotic_move_SW.png
+		Contents\Images\Milotic\Milotic_move_W.png = Contents\Images\Milotic\Milotic_move_W.png
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Togekiss", "Togekiss", "{0AB0E195-D82A-4641-B95E-30FA2080360C}"
+	ProjectSection(SolutionItems) = preProject
+		Contents\Images\Togekiss\Togekiss_hurt_E.png = Contents\Images\Togekiss\Togekiss_hurt_E.png
+		Contents\Images\Togekiss\Togekiss_hurt_N.png = Contents\Images\Togekiss\Togekiss_hurt_N.png
+		Contents\Images\Togekiss\Togekiss_hurt_NE.png = Contents\Images\Togekiss\Togekiss_hurt_NE.png
+		Contents\Images\Togekiss\Togekiss_hurt_NW.png = Contents\Images\Togekiss\Togekiss_hurt_NW.png
+		Contents\Images\Togekiss\Togekiss_hurt_S.png = Contents\Images\Togekiss\Togekiss_hurt_S.png
+		Contents\Images\Togekiss\Togekiss_hurt_SE.png = Contents\Images\Togekiss\Togekiss_hurt_SE.png
+		Contents\Images\Togekiss\Togekiss_hurt_SW.png = Contents\Images\Togekiss\Togekiss_hurt_SW.png
+		Contents\Images\Togekiss\Togekiss_hurt_W.png = Contents\Images\Togekiss\Togekiss_hurt_W.png
+		Contents\Images\Togekiss\Togekiss_move_E.png = Contents\Images\Togekiss\Togekiss_move_E.png
+		Contents\Images\Togekiss\Togekiss_move_N.png = Contents\Images\Togekiss\Togekiss_move_N.png
+		Contents\Images\Togekiss\Togekiss_move_NE.png = Contents\Images\Togekiss\Togekiss_move_NE.png
+		Contents\Images\Togekiss\Togekiss_move_NW.png = Contents\Images\Togekiss\Togekiss_move_NW.png
+		Contents\Images\Togekiss\Togekiss_move_S.png = Contents\Images\Togekiss\Togekiss_move_S.png
+		Contents\Images\Togekiss\Togekiss_move_SE.png = Contents\Images\Togekiss\Togekiss_move_SE.png
+		Contents\Images\Togekiss\Togekiss_move_SW.png = Contents\Images\Togekiss\Togekiss_move_SW.png
+		Contents\Images\Togekiss\Togekiss_move_W.png = Contents\Images\Togekiss\Togekiss_move_W.png
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Roserade", "Roserade", "{D3C3E66F-0CBE-4F6F-B9A0-223D802DD596}"
+	ProjectSection(SolutionItems) = preProject
+		Contents\Images\Roserade\Roserade_hurt_E.png = Contents\Images\Roserade\Roserade_hurt_E.png
+		Contents\Images\Roserade\Roserade_hurt_N.png = Contents\Images\Roserade\Roserade_hurt_N.png
+		Contents\Images\Roserade\Roserade_hurt_NE.png = Contents\Images\Roserade\Roserade_hurt_NE.png
+		Contents\Images\Roserade\Roserade_hurt_NW.png = Contents\Images\Roserade\Roserade_hurt_NW.png
+		Contents\Images\Roserade\Roserade_hurt_S.png = Contents\Images\Roserade\Roserade_hurt_S.png
+		Contents\Images\Roserade\Roserade_hurt_SE.png = Contents\Images\Roserade\Roserade_hurt_SE.png
+		Contents\Images\Roserade\Roserade_hurt_SW.png = Contents\Images\Roserade\Roserade_hurt_SW.png
+		Contents\Images\Roserade\Roserade_hurt_W.png = Contents\Images\Roserade\Roserade_hurt_W.png
+		Contents\Images\Roserade\Roserade_move_E.png = Contents\Images\Roserade\Roserade_move_E.png
+		Contents\Images\Roserade\Roserade_move_N.png = Contents\Images\Roserade\Roserade_move_N.png
+		Contents\Images\Roserade\Roserade_move_NE.png = Contents\Images\Roserade\Roserade_move_NE.png
+		Contents\Images\Roserade\Roserade_move_NW.png = Contents\Images\Roserade\Roserade_move_NW.png
+		Contents\Images\Roserade\Roserade_move_S.png = Contents\Images\Roserade\Roserade_move_S.png
+		Contents\Images\Roserade\Roserade_move_SE.png = Contents\Images\Roserade\Roserade_move_SE.png
+		Contents\Images\Roserade\Roserade_move_SW.png = Contents\Images\Roserade\Roserade_move_SW.png
+		Contents\Images\Roserade\Roserade_move_W.png = Contents\Images\Roserade\Roserade_move_W.png
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C2138BC9-A195-455F-91A6-5FF469EB5E61}.Debug|x64.ActiveCfg = Debug|x64
+		{C2138BC9-A195-455F-91A6-5FF469EB5E61}.Debug|x64.Build.0 = Debug|x64
+		{C2138BC9-A195-455F-91A6-5FF469EB5E61}.Debug|x86.ActiveCfg = Debug|Win32
+		{C2138BC9-A195-455F-91A6-5FF469EB5E61}.Debug|x86.Build.0 = Debug|Win32
+		{C2138BC9-A195-455F-91A6-5FF469EB5E61}.Release|x64.ActiveCfg = Release|x64
+		{C2138BC9-A195-455F-91A6-5FF469EB5E61}.Release|x64.Build.0 = Release|x64
+		{C2138BC9-A195-455F-91A6-5FF469EB5E61}.Release|x86.ActiveCfg = Release|Win32
+		{C2138BC9-A195-455F-91A6-5FF469EB5E61}.Release|x86.Build.0 = Release|Win32
+		{62755BC4-7433-469B-8413-314F6EC62971}.Debug|x64.ActiveCfg = Debug|x64
+		{62755BC4-7433-469B-8413-314F6EC62971}.Debug|x64.Build.0 = Debug|x64
+		{62755BC4-7433-469B-8413-314F6EC62971}.Debug|x86.ActiveCfg = Debug|Win32
+		{62755BC4-7433-469B-8413-314F6EC62971}.Debug|x86.Build.0 = Debug|Win32
+		{62755BC4-7433-469B-8413-314F6EC62971}.Release|x64.ActiveCfg = Release|x64
+		{62755BC4-7433-469B-8413-314F6EC62971}.Release|x64.Build.0 = Release|x64
+		{62755BC4-7433-469B-8413-314F6EC62971}.Release|x86.ActiveCfg = Release|Win32
+		{62755BC4-7433-469B-8413-314F6EC62971}.Release|x86.Build.0 = Release|Win32
+		{E4AABC26-46D5-436A-BE00-FF12933156D1}.Debug|x64.ActiveCfg = Debug|x64
+		{E4AABC26-46D5-436A-BE00-FF12933156D1}.Debug|x64.Build.0 = Debug|x64
+		{E4AABC26-46D5-436A-BE00-FF12933156D1}.Debug|x86.ActiveCfg = Debug|Win32
+		{E4AABC26-46D5-436A-BE00-FF12933156D1}.Debug|x86.Build.0 = Debug|Win32
+		{E4AABC26-46D5-436A-BE00-FF12933156D1}.Release|x64.ActiveCfg = Release|x64
+		{E4AABC26-46D5-436A-BE00-FF12933156D1}.Release|x64.Build.0 = Release|x64
+		{E4AABC26-46D5-436A-BE00-FF12933156D1}.Release|x86.ActiveCfg = Release|Win32
+		{E4AABC26-46D5-436A-BE00-FF12933156D1}.Release|x86.Build.0 = Release|Win32
+		{EE1564FE-B5EC-4153-B411-96B5F32A1230}.Debug|x64.ActiveCfg = Debug|x64
+		{EE1564FE-B5EC-4153-B411-96B5F32A1230}.Debug|x64.Build.0 = Debug|x64
+		{EE1564FE-B5EC-4153-B411-96B5F32A1230}.Debug|x86.ActiveCfg = Debug|Win32
+		{EE1564FE-B5EC-4153-B411-96B5F32A1230}.Debug|x86.Build.0 = Debug|Win32
+		{EE1564FE-B5EC-4153-B411-96B5F32A1230}.Release|x64.ActiveCfg = Release|x64
+		{EE1564FE-B5EC-4153-B411-96B5F32A1230}.Release|x64.Build.0 = Release|x64
+		{EE1564FE-B5EC-4153-B411-96B5F32A1230}.Release|x86.ActiveCfg = Release|Win32
+		{EE1564FE-B5EC-4153-B411-96B5F32A1230}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{031D9208-75CB-45ED-AE3F-F9B0AA28E8CC} = {0EC98764-9025-4AF9-8937-0EB5970059BA}
+		{E27B69EA-AE84-467C-A981-0C5B234E458A} = {0EC98764-9025-4AF9-8937-0EB5970059BA}
+		{F3C92F7B-6CAE-4962-94EA-1954F04453F4} = {E27B69EA-AE84-467C-A981-0C5B234E458A}
+		{634C0BD8-3456-4A05-A4DB-4189A28BAF1C} = {E27B69EA-AE84-467C-A981-0C5B234E458A}
+		{1D28FE3D-86EB-4370-BF05-EC8393761DC9} = {E27B69EA-AE84-467C-A981-0C5B234E458A}
+		{EAF3EE73-CA2D-4E33-8DF3-C615AC4BCDAE} = {E27B69EA-AE84-467C-A981-0C5B234E458A}
+		{329A0422-B502-410A-8E36-E96888C46C68} = {EAF3EE73-CA2D-4E33-8DF3-C615AC4BCDAE}
+		{C4ACAC1D-3AE4-4E0E-B5FA-9798EBFAF307} = {EAF3EE73-CA2D-4E33-8DF3-C615AC4BCDAE}
+		{BB9B2401-2A4F-4A49-90C4-7230BA99746C} = {C4ACAC1D-3AE4-4E0E-B5FA-9798EBFAF307}
+		{FE729498-E2B4-4237-B2F7-29500C2C1D19} = {C4ACAC1D-3AE4-4E0E-B5FA-9798EBFAF307}
+		{0AB0E195-D82A-4641-B95E-30FA2080360C} = {C4ACAC1D-3AE4-4E0E-B5FA-9798EBFAF307}
+		{D3C3E66F-0CBE-4F6F-B9A0-223D802DD596} = {C4ACAC1D-3AE4-4E0E-B5FA-9798EBFAF307}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9E65A645-0ED0-45FC-8214-114C1DE27774}
+	EndGlobalSection
+EndGlobal
