@@ -10,35 +10,35 @@ void CreateScene()
 		SCENE->AddScene("Scene01", temp);
 	}
 
-	m.lock();
-	initCount++;
-	m.unlock();
-	Sleep(1000);
+	//m.lock();
+	//initCount++;
+	//m.unlock();
+	//Sleep(1000);
 
-	m.lock();
-	initCount++;
-	m.unlock();
-	Sleep(1000);
+	//m.lock();
+	//initCount++;
+	//m.unlock();
+	//Sleep(1000);
 
-	m.lock();
-	initCount++;
-	m.unlock();
-	Sleep(1000);
+	//m.lock();
+	//initCount++;
+	//m.unlock();
+	//Sleep(1000);
 
-	m.lock();
-	initCount++;
-	m.unlock();
-	Sleep(1000);
+	//m.lock();
+	//initCount++;
+	//m.unlock();
+	//Sleep(1000);
 
-	m.lock();
-	initCount++;
-	m.unlock();
-	Sleep(1000);
+	//m.lock();
+	//initCount++;
+	//m.unlock();
+	//Sleep(1000);
 
-	m.lock();
-	initCount++;
-	m.unlock();
-	Sleep(1000);
+	//m.lock();
+	//initCount++;
+	//m.unlock();
+	//Sleep(1000);
 
 }
 

@@ -1,4 +1,83 @@
-﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: 중간 디렉터리(C:\Users\슈뢰딩거\Desktop\Tower_Bloon_Test_3\\Build\Obj\)에 다른 프로젝트(TileMapEditor.vcxproj)에서 공유하는 파일이 포함되어 있습니다.  이로 인해 잘못된 정리 및 다시 빌드 동작이 수행될 수 있습니다.
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: 중간 디렉터리(C:\Users\jangh\Desktop\PokeDefense\\Build\Obj\)에 다른 프로젝트(TileMapEditor.vcxproj)에서 공유하는 파일이 포함되어 있습니다.  이로 인해 잘못된 정리 및 다시 빌드 동작이 수행될 수 있습니다.
+  Bellsprout.cpp
+  Bloon.cpp
+  Bulbasaur.cpp
+  Caterpie.cpp
+  Charmander.cpp
+  Chimchar.cpp
+  Crobat.cpp
+  Cursor.cpp
+  Delibird.cpp
+  Entity.cpp
+  Garchomp.cpp
+  Golduck.cpp
+  Happiny.cpp
+  LoadingScene.cpp
+  Magby.cpp
+  Magmator.cpp
+  Main.cpp
+  Milotic.cpp
+  Ninetails.cpp
+  Piplup.cpp
+  Psyduck.cpp
+  Purugly.cpp
+  Rattata.cpp
+  Roserade.cpp
+  Scene01.cpp
+  Scene02.cpp
+  Skuntank.cpp
+  Squirtle.cpp
+  TextBar.cpp
+  Togekiss.cpp
+  Tower.cpp
+  Turtwig.cpp
+C:\Users\jangh\Desktop\PokeDefense\Game2\Scene02.cpp(431,7): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\jangh\Desktop\PokeDefense\Game2\Scene02.cpp(456,7): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\jangh\Desktop\PokeDefense\Game2\Scene02.cpp(492,7): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\jangh\Desktop\PokeDefense\Game2\Scene02.cpp(511,7): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\jangh\Desktop\PokeDefense\Game2\Scene02.cpp(533,7): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\jangh\Desktop\PokeDefense\Game2\Scene02.cpp(551,7): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\jangh\Desktop\PokeDefense\Game2\Scene02.cpp(570,7): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\jangh\Desktop\PokeDefense\Game2\Scene02.cpp(600,7): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\jangh\Desktop\PokeDefense\Game2\Scene02.cpp(619,7): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\jangh\Desktop\PokeDefense\Game2\Scene02.cpp(638,7): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\jangh\Desktop\PokeDefense\Game2\Scene02.cpp(657,7): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\jangh\Desktop\PokeDefense\Game2\Scene02.cpp(680,7): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\jangh\Desktop\PokeDefense\Game2\Scene02.cpp(703,7): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\jangh\Desktop\PokeDefense\Game2\Scene02.cpp(721,7): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\jangh\Desktop\PokeDefense\Game2\TextBar.cpp(123,7): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\jangh\Desktop\PokeDefense\Game2\TextBar.cpp(159,7): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\jangh\Desktop\PokeDefense\Game2\TextBar.cpp(190,7): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\jangh\Desktop\PokeDefense\Game2\TextBar.cpp(246,7): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\jangh\Desktop\PokeDefense\Game2\Scene01.cpp(175,23): warning C4244: '*=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\jangh\Desktop\PokeDefense\Game2\Scene01.cpp(190,22): warning C4244: '*=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\jangh\Desktop\PokeDefense\Game2\Scene01.cpp(196,22): warning C4244: '*=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\jangh\Desktop\PokeDefense\Game2\TextBar.cpp(309,7): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\jangh\Desktop\PokeDefense\Game2\Scene01.cpp(202,22): warning C4244: '*=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\jangh\Desktop\PokeDefense\Game2\Scene01.cpp(208,22): warning C4244: '*=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\jangh\Desktop\PokeDefense\Game2\Scene01.cpp(214,22): warning C4244: '*=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\jangh\Desktop\PokeDefense\Game2\Scene01.cpp(220,22): warning C4244: '*=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\jangh\Desktop\PokeDefense\Game2\Scene01.cpp(226,22): warning C4244: '*=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\jangh\Desktop\PokeDefense\Game2\Scene01.cpp(232,22): warning C4244: '*=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\jangh\Desktop\PokeDefense\Game2\TextBar.cpp(357,7): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\jangh\Desktop\PokeDefense\Game2\Scene01.cpp(238,22): warning C4244: '*=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\jangh\Desktop\PokeDefense\Game2\TextBar.cpp(384,7): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\jangh\Desktop\PokeDefense\Game2\TextBar.cpp(405,7): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\jangh\Desktop\PokeDefense\Game2\TextBar.cpp(426,7): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\jangh\Desktop\PokeDefense\Game2\TextBar.cpp(466,7): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\jangh\Desktop\PokeDefense\Game2\TextBar.cpp(491,7): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\jangh\Desktop\PokeDefense\Game2\TextBar.cpp(517,7): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\jangh\Desktop\PokeDefense\Game2\TextBar.cpp(539,7): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\jangh\Desktop\PokeDefense\Game2\TextBar.cpp(560,7): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\jangh\Desktop\PokeDefense\Game2\TextBar.cpp(581,7): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\jangh\Desktop\PokeDefense\Game2\TextBar.cpp(602,7): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\jangh\Desktop\PokeDefense\Game2\TextBar.cpp(623,7): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\jangh\Desktop\PokeDefense\Game2\TextBar.cpp(642,7): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\jangh\Desktop\PokeDefense\Game2\TextBar.cpp(662,7): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\jangh\Desktop\PokeDefense\Game2\TextBar.cpp(683,7): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+  Ui.cpp
+  Victreebel.cpp
+C:\Users\jangh\Desktop\PokeDefense\Game2\Ui.cpp(327,48): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
 Tower.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: __cdecl ObImage::ObImage(class std::basic_string<wchar_t,struct std::char_traits<wchar_t>,class std::allocator<wchar_t> >)" (??0ObImage@@QEAA@V?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@@Z)
 Turtwig.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: __cdecl ObImage::ObImage(class std::basic_string<wchar_t,struct std::char_traits<wchar_t>,class std::allocator<wchar_t> >)" (??0ObImage@@QEAA@V?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@@Z)
 Ui.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: __cdecl ObImage::ObImage(class std::basic_string<wchar_t,struct std::char_traits<wchar_t>,class std::allocator<wchar_t> >)" (??0ObImage@@QEAA@V?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@@Z)
@@ -204,4 +283,4 @@ Squirtle.obj : error LNK2019: "public: __cdecl Camera::Camera(void)" (??0Camera@
 Squirtle.obj : error LNK2019: "public: void __cdecl GameObject::SetWorldPosY(float)" (?SetWorldPosY@GameObject@@QEAAXM@Z)"public: virtual void __cdecl Squirtle::Update(void)" (?Update@Squirtle@@UEAAXXZ) 함수에서 참조되는 확인할 수 없는 외부 기호
 Tower.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: void __cdecl GameObject::SetWorldPosY(float)" (?SetWorldPosY@GameObject@@QEAAXM@Z)
 Ui.obj : error LNK2019: "public: int __cdecl Random::Int(int,int)" (?Int@Random@@QEAAHHH@Z)"public: void __cdecl Ui::TempSelection(void)" (?TempSelection@Ui@@QEAAXXZ) 함수에서 참조되는 확인할 수 없는 외부 기호
-C:\Users\슈뢰딩거\Desktop\Tower_Bloon_Test_3\\Build\Game2.exe : fatal error LNK1120: 47개의 확인할 수 없는 외부 참조입니다.
+C:\Users\jangh\Desktop\PokeDefense\\Build\Game2.exe : fatal error LNK1120: 47개의 확인할 수 없는 외부 참조입니다.
